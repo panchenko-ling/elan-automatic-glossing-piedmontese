@@ -4,9 +4,9 @@ Rule-based pipeline that pre-annotates ELAN (`.eaf`) transcription files with
 morpheme segmentation, interlinear glosses and language tags, so that human
 annotators start from a partially filled file instead of a blank one.
 
-Built during an internship on the **[PROJECT NAME]** project at
-**[INSTITUTION]** ([MONTH YEAR] – [MONTH YEAR]), working on a corpus of
-Piedmontese as spoken by descendants of Italian migrants in Argentina. The
+Built during an internship on the **PILAR** project at
+the University of Turin ([June 2025] – [November 2025]), working on a corpus of
+Piedmontese as spoken by descendants of Italian immigrants in Argentina. The
 recordings are bilingual: speakers code-switch between Piedmontese and
 Spanish, and the pipeline tags each morph for language.
 
@@ -164,6 +164,5 @@ explicitly as a `config` dict.
 ## License
 
 Code is released under the MIT License (see `LICENSE`). The lexical resources
-are derived from the [PROJECT NAME] corpus and are published with the
-permission of [SUPERVISOR / PROJECT]; please credit the project if you reuse
+are derived from the PILAR corpus; please credit the project if you reuse
 them.
