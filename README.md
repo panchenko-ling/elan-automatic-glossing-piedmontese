@@ -4,8 +4,8 @@ Rule-based pipeline that pre-annotates ELAN (`.eaf`) transcription files with
 morpheme segmentation, interlinear glosses and language tags, so that human
 annotators start from a partially filled file instead of a blank one.
 
-Built during an internship on the **PILAR** project at
-the University of Turin ([June 2025] – [November 2025]), working on a corpus of
+Built during an internship on the [PILAR](https://www.pilar.unito.it/)
+(Piedmontese Language in Argentina) project at the University of Turin (*June – November 2025*), working on a corpus of
 Piedmontese as spoken by descendants of Italian immigrants in Argentina. The
 recordings are bilingual: speakers code-switch between Piedmontese and
 Spanish, and the pipeline tags each morph for language.
