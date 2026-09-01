@@ -1,0 +1,6162 @@
+{
+  "MI": [
+    [
+      "MI",
+      "my"
+    ]
+  ],
+  "NOMBRE": [
+    [
+      "NOMBR",
+      "name"
+    ],
+    [
+      "-E",
+      "SG"
+    ]
+  ],
+  "ES": [
+    [
+      "ES",
+      "be:3SG"
+    ]
+  ],
+  "Y": [
+    [
+      "Y",
+      "and"
+    ]
+  ],
+  "APELLIDO": [
+    [
+      "APELLID",
+      "surname"
+    ],
+    [
+      "-O",
+      "SG"
+    ]
+  ],
+  "MATERNO": [
+    [
+      "MATERN",
+      "maternal"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "NACÍ": [
+    [
+      "NAC",
+      "be_born"
+    ],
+    [
+      "-Í",
+      "PRF.1SG"
+    ]
+  ],
+  "EN": [
+    [
+      "EN",
+      "in"
+    ]
+  ],
+  "EL": [
+    [
+      "EL",
+      ""
+    ]
+  ],
+  "AÑO": [
+    [
+      "AÑ",
+      "year"
+    ],
+    [
+      "-O",
+      "SG"
+    ]
+  ],
+  "MIL": [
+    [
+      "MIL",
+      "one_thousand"
+    ]
+  ],
+  "NOVECIENTOS": [
+    [
+      "NOVECIENTOS",
+      "nine_hundred"
+    ]
+  ],
+  "SESENTA": [
+    [
+      "SESENTA",
+      "sixty"
+    ]
+  ],
+  "SIETE": [
+    [
+      "SIETE",
+      "seven"
+    ]
+  ],
+  "CINCUENTA": [
+    [
+      "CINCUENTA",
+      "fifty"
+    ]
+  ],
+  "CINCO": [
+    [
+      "CINCO",
+      "five"
+    ]
+  ],
+  "AÑOS": [
+    [
+      "AÑ",
+      "year"
+    ],
+    [
+      "-OS",
+      "PL"
+    ]
+  ],
+  "LO": [
+    [
+      "LO",
+      ""
+    ]
+  ],
+  "AUTORIZO": [
+    [
+      "AUTORIZ",
+      "authorize"
+    ],
+    [
+      "-O",
+      "1SG"
+    ]
+  ],
+  "A": [
+    [
+      "A",
+      ""
+    ]
+  ],
+  "PARA": [
+    [
+      "PARA",
+      "for"
+    ]
+  ],
+  "QUE": [
+    [
+      "QUE",
+      ""
+    ]
+  ],
+  "UTILICE": [
+    [
+      "UTILIC",
+      "use"
+    ],
+    [
+      "-E",
+      "SBJ.3SG"
+    ]
+  ],
+  "LAS": [
+    [
+      "LAS",
+      "the:F.PL"
+    ]
+  ],
+  "IMÁGENES": [
+    [
+      "IMÁGEN",
+      "image"
+    ],
+    [
+      "-ES",
+      "PL"
+    ]
+  ],
+  "CASO": [
+    [
+      "CAS",
+      "case"
+    ],
+    [
+      "-O",
+      "SG"
+    ]
+  ],
+  "SEA": [
+    [
+      "SEA",
+      "be:SBJ.3SG"
+    ]
+  ],
+  "NECESARIO": [
+    [
+      "NECESARI",
+      "necessary"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "tut": [
+    [
+      "tut",
+      "all"
+    ]
+  ],
+  "piemonteis": [
+    [
+      "piemonteis",
+      "Piedmontese"
+    ]
+  ],
+  "mi": [
+    [
+      "mi",
+      ""
+    ]
+  ],
+  "son": [
+    [
+      "son",
+      ""
+    ]
+  ],
+  "nasì": [
+    [
+      "nasì",
+      "be_born:PP"
+    ]
+  ],
+  "belessì": [
+    [
+      "belessì",
+      "here"
+    ]
+  ],
+  "sì": [
+    [
+      "sì",
+      ""
+    ]
+  ],
+  "no": [
+    [
+      "no",
+      "no"
+    ]
+  ],
+  "tan": [
+    [
+      "tan",
+      "xxx"
+    ]
+  ],
+  "freyre": [
+    [
+      "freyre",
+      "Freyre"
+    ]
+  ],
+  "tacà": [
+    [
+      "tacà",
+      ""
+    ]
+  ],
+  "hm": [
+    [
+      "hm",
+      "hm"
+    ]
+  ],
+  "TREINTA": [
+    [
+      "treinta",
+      "thirty"
+    ]
+  ],
+  "cinquanta": [
+    [
+      "cinquanta",
+      "fifty"
+    ]
+  ],
+  "KILÓMETROS": [
+    [
+      "KILÓMETR",
+      "kilometer"
+    ],
+    [
+      "-OS",
+      "PL"
+    ]
+  ],
+  "bisnòno": [
+    [
+      "bisnòn",
+      "great-grandfather"
+    ],
+    [
+      "-o",
+      "M.PL"
+    ]
+  ],
+  "a": [
+    [
+      "a",
+      ""
+    ]
+  ],
+  "l": [
+    [
+      "l",
+      ""
+    ]
+  ],
+  "han": [
+    [
+      "han",
+      "AUX:3PL"
+    ]
+  ],
+  "rivà": [
+    [
+      "riv",
+      "arrive"
+    ],
+    [
+      "-à",
+      "PP"
+    ]
+  ],
+  "de": [
+    [
+      "de",
+      ""
+    ]
+  ],
+  "eh": [
+    [
+      "eh",
+      "eh"
+    ]
+  ],
+  "NOVENTA": [
+    [
+      "NOVENTA",
+      "ninety"
+    ]
+  ],
+  "DOS": [
+    [
+      "DOS",
+      "two"
+    ]
+  ],
+  "CIENTOONCE": [
+    [
+      "CIENTOONCE",
+      "one_hundred_eleven"
+    ]
+  ],
+  "ATRÁS": [
+    [
+      "ATRÁS",
+      "back"
+    ]
+  ],
+  "ASÍ": [
+    [
+      "ASÍ",
+      "so"
+    ]
+  ],
+  "OCHOCIENTO": [
+    [
+      "OCHOCIENTO",
+      "eight_hundred"
+    ]
+  ],
+  "SETENTA": [
+    [
+      "SETENTA",
+      "seventy"
+    ]
+  ],
+  "e": [
+    [
+      "e",
+      "and"
+    ]
+  ],
+  "ESTABLECE": [
+    [
+      "ESTABLECE",
+      "settle_down:PP"
+    ]
+  ],
+  "se": [
+    [
+      "se",
+      ""
+    ]
+  ],
+  "en": [
+    [
+      "en",
+      "in"
+    ]
+  ],
+  "FELICIA": [
+    [
+      "FELICIA",
+      "Felicia"
+    ]
+  ],
+  "provinsia": [
+    [
+      "provinsi",
+      "province"
+    ],
+    [
+      "-a",
+      "SG"
+    ]
+  ],
+  "ëd": [
+    [
+      "ëd",
+      "of"
+    ]
+  ],
+  "SANTA_FE": [
+    [
+      "SANTA_FE",
+      "Santa FE"
+    ]
+  ],
+  "arivavo": [
+    [
+      "ariv",
+      "arrive"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-o",
+      "3PL"
+    ]
+  ],
+  "da": [
+    [
+      "da",
+      ""
+    ]
+  ],
+  "cumiana": [
+    [
+      "cumiana",
+      "Cumiana"
+    ]
+  ],
+  "lì": [
+    [
+      "lì",
+      "there"
+    ]
+  ],
+  "è": [
+    [
+      "è",
+      "be:3SG"
+    ]
+  ],
+  "na": [
+    [
+      "na",
+      "one:F"
+    ]
+  ],
+  "vila": [
+    [
+      "vil",
+      "villa"
+    ],
+    [
+      "-a",
+      "SG"
+    ]
+  ],
+  "che": [
+    [
+      "che",
+      ""
+    ]
+  ],
+  "fan": [
+    [
+      "fan",
+      "make"
+    ]
+  ],
+  "ël": [
+    [
+      "ël",
+      "the:M.SG"
+    ]
+  ],
+  "vin": [
+    [
+      "vin",
+      "wine"
+    ]
+  ],
+  "la": [
+    [
+      "la",
+      ""
+    ]
+  ],
+  "belelì": [
+    [
+      "belelì",
+      "right_there"
+    ]
+  ],
+  "conossì": [
+    [
+      "conossì",
+      "know:PP"
+    ]
+  ],
+  "tuti": [
+    [
+      "tut",
+      "all"
+    ],
+    [
+      "-i",
+      "M.PL"
+    ]
+  ],
+  "LA": [
+    [
+      "LA",
+      ""
+    ]
+  ],
+  "HISTORIA": [
+    [
+      "HISTORIA",
+      "history:SG"
+    ]
+  ],
+  "ma": [
+    [
+      "ma",
+      "but"
+    ]
+  ],
+  "n": [
+    [
+      "n",
+      ""
+    ]
+  ],
+  "aota": [
+    [
+      "aot",
+      "other"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "vòta": [
+    [
+      "vòta",
+      "time"
+    ]
+  ],
+  "fa": [
+    [
+      "fa",
+      ""
+    ]
+  ],
+  "un": [
+    [
+      "un",
+      "one:M"
+    ]
+  ],
+  "gemellaggio": [
+    [
+      "gemellagi",
+      "partnership"
+    ],
+    [
+      "-o",
+      "SG"
+    ]
+  ],
+  "VIENDO": [
+    [
+      "V",
+      "see"
+    ],
+    [
+      "-IENDO",
+      "GER"
+    ]
+  ],
+  "UN": [
+    [
+      "UN",
+      "one:M"
+    ]
+  ],
+  "VIDEO": [
+    [
+      "VIDEO",
+      "video:SG"
+    ]
+  ],
+  "j": [
+    [
+      "j=",
+      "CLIT"
+    ]
+  ],
+  "era": [
+    [
+      "era",
+      "be:IMPF.3SG"
+    ]
+  ],
+  "brindis": [
+    [
+      "brindis",
+      "toast"
+    ]
+  ],
+  "con": [
+    [
+      "con",
+      "with"
+    ]
+  ],
+  "DE": [
+    [
+      "DE",
+      ""
+    ]
+  ],
+  "soma": [
+    [
+      "soma",
+      "be:1PL"
+    ]
+  ],
+  "nijaite": [
+    [
+      "nijaite",
+      "1PL"
+    ]
+  ],
+  "mia": [
+    [
+      "mi",
+      "my"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "pare": [
+    [
+      "pare",
+      "father"
+    ]
+  ],
+  "mare": [
+    [
+      "mare",
+      "mother"
+    ]
+  ],
+  "parlavo": [
+    [
+      "parl",
+      "speak"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-o",
+      "?"
+    ]
+  ],
+  "ij": [
+    [
+      "ij",
+      "the:M.PL"
+    ]
+  ],
+  "di": [
+    [
+      "di",
+      "day"
+    ]
+  ],
+  "piemont": [
+    [
+      "piemont",
+      "Piedmont"
+    ]
+  ],
+  "tui": [
+    [
+      "tui",
+      "all"
+    ]
+  ],
+  "doi": [
+    [
+      "doi",
+      "two"
+    ]
+  ],
+  "partu": [
+    [
+      "part",
+      "leave"
+    ],
+    [
+      "-u",
+      "PP"
+    ]
+  ],
+  "casa": [
+    [
+      "cas",
+      "house"
+    ],
+    [
+      "-a",
+      "SG"
+    ]
+  ],
+  "del": [
+    [
+      "del",
+      "of.the:M.SG"
+    ]
+  ],
+  "padre": [
+    [
+      "padre",
+      "father"
+    ]
+  ],
+  "DOSMIL": [
+    [
+      "DOSMIL",
+      "two_thousand"
+    ]
+  ],
+  "DIECISIETE": [
+    [
+      "DIECISIETE",
+      "seventeen"
+    ]
+  ],
+  "protestava": [
+    [
+      "protest",
+      "protest"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-a",
+      "3SG"
+    ]
+  ],
+  "SIEMPRE": [
+    [
+      "SIEMPRE",
+      "always"
+    ]
+  ],
+  "rognava": [
+    [
+      "rogn",
+      "growl"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-a",
+      "3SG"
+    ]
+  ],
+  "disìa": [
+    [
+      "dis",
+      "say"
+    ],
+    [
+      "-ì",
+      "IMPF"
+    ],
+    [
+      "-a",
+      "3SG"
+    ]
+  ],
+  "parlava": [
+    [
+      "parl",
+      "speak"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-a",
+      "3SG"
+    ]
+  ],
+  "pa": [
+    [
+      "pa",
+      "not"
+    ]
+  ],
+  "CASTILLA": [
+    [
+      "CASTILL",
+      "Castilian"
+    ],
+    [
+      "-A",
+      "SG"
+    ]
+  ],
+  "italiano": [
+    [
+      "italian",
+      "Italian"
+    ],
+    [
+      "-o",
+      "M.SG"
+    ]
+  ],
+  "cà": [
+    [
+      "cà",
+      "house"
+    ]
+  ],
+  "enta": [
+    [
+      "enta",
+      "in"
+    ]
+  ],
+  "MESA": [
+    [
+      "MESA",
+      "table"
+    ],
+    [
+      "-A",
+      "SG"
+    ]
+  ],
+  "ent": [
+    [
+      "ent",
+      "in"
+    ]
+  ],
+  "ciuciand": [
+    [
+      "ciuci",
+      "slurp"
+    ],
+    [
+      "-and",
+      "GER"
+    ]
+  ],
+  "MATE": [
+    [
+      "MATE",
+      "mate"
+    ]
+  ],
+  "sempre": [
+    [
+      "sempre",
+      "always"
+    ]
+  ],
+  "an": [
+    [
+      "an",
+      ""
+    ]
+  ],
+  "piemontes": [
+    [
+      "piemontes",
+      "Piedmontese"
+    ]
+  ],
+  "pòch": [
+    [
+      "pòch",
+      "little"
+    ]
+  ],
+  "ESPAÑOL": [
+    [
+      "ESPAÑOL",
+      "Spanish"
+    ]
+  ],
+  "PERO": [
+    [
+      "PERO",
+      "but"
+    ]
+  ],
+  "mëscia": [
+    [
+      "mësci",
+      "mix"
+    ],
+    [
+      "-a",
+      "SG"
+    ]
+  ],
+  "ancheui": [
+    [
+      "ancheui",
+      "today"
+    ]
+  ],
+  "lo": [
+    [
+      "lo",
+      ""
+    ]
+  ],
+  "parlo": [
+    [
+      "parl",
+      "speak"
+    ],
+    [
+      "-o",
+      "?"
+    ]
+  ],
+  "amis": [
+    [
+      "amis",
+      "friend"
+    ]
+  ],
+  "temp": [
+    [
+      "temp",
+      "time"
+    ]
+  ],
+  "quat": [
+    [
+      "quat",
+      "four"
+    ]
+  ],
+  "meis": [
+    [
+      "meis",
+      "month"
+    ]
+  ],
+  "ero": [
+    [
+      "ero",
+      "be:IMPF.?"
+    ]
+  ],
+  "un'": [
+    [
+      "un'",
+      "one:F"
+    ]
+  ],
+  "ZONA": [
+    [
+      "ZON",
+      "area"
+    ],
+    [
+      "-A",
+      "SG"
+    ]
+  ],
+  "ARROYITO": [
+    [
+      "ARROYITO",
+      "Arroyito"
+    ]
+  ],
+  "VAN": [
+    [
+      "VAN",
+      "go:3PL"
+    ]
+  ],
+  "VISITAR": [
+    [
+      "VISIT",
+      "visit"
+    ],
+    [
+      "-AR",
+      "INF"
+    ]
+  ],
+  "tant": [
+    [
+      "tant",
+      "much"
+    ]
+  ],
+  "saran": [
+    [
+      "saran",
+      "be:FUT.3PL"
+    ]
+  ],
+  "ses": [
+    [
+      "ses",
+      "six"
+    ]
+  ],
+  "des": [
+    [
+      "des",
+      "ten"
+    ]
+  ],
+  "mach": [
+    [
+      "mach",
+      "only"
+    ]
+  ],
+  "parei": [
+    [
+      "parei",
+      "like_this"
+    ]
+  ],
+  "CUNA": [
+    [
+      "CUNA",
+      "cradle"
+    ]
+  ],
+  "dël": [
+    [
+      "dël",
+      "of_the:M.SG"
+    ]
+  ],
+  "piëmont": [
+    [
+      "piëmont",
+      "Piedmont"
+    ]
+  ],
+  "tuta": [
+    [
+      "tut",
+      "all"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "linea": [
+    [
+      "line",
+      "line"
+    ],
+    [
+      "-a",
+      "SG"
+    ]
+  ],
+  "SAN_FRANCISCO": [
+    [
+      "SAN_FRANCISCO",
+      "San Francisco"
+    ]
+  ],
+  "MORTEROS": [
+    [
+      "MORTEROS",
+      "Morteros"
+    ]
+  ],
+  "PROPIAMENTE": [
+    [
+      "PROPIAMENTE",
+      "properly"
+    ]
+  ],
+  "s": [
+    [
+      "s=",
+      "IMPERS"
+    ]
+  ],
+  "peul": [
+    [
+      "peul",
+      "can:3sg"
+    ]
+  ],
+  "parle": [
+    [
+      "parl",
+      "speak"
+    ],
+    [
+      "-e",
+      "INF"
+    ]
+  ],
+  "ora": [
+    [
+      "ora",
+      "now"
+    ]
+  ],
+  "DESPERTà": [
+    [
+      "DESPERT",
+      "wake_up"
+    ],
+    [
+      "-à",
+      "PP"
+    ]
+  ],
+  "ël": [
+    [
+      "ël",
+      "the:M.SG"
+    ]
+  ],
+  "mes": [
+    [
+      "mes",
+      "half"
+    ]
+  ],
+  "dormì": [
+    [
+      "dorm",
+      "sleep"
+    ],
+    [
+      "-ì",
+      "INF"
+    ]
+  ],
+  "ha": [
+    [
+      "ha",
+      "AUX:3SG"
+    ]
+  ],
+  "DESPERTA": [
+    [
+      "DESPERT",
+      "wake_up"
+    ],
+    [
+      "-a",
+      "PP"
+    ]
+  ],
+  "përché": [
+    [
+      "përché",
+      "because"
+    ]
+  ],
+  "QUIEN": [
+    [
+      "QUIEN",
+      "who"
+    ]
+  ],
+  "parlé": [
+    [
+      "parl",
+      "speak"
+    ],
+    [
+      "-é",
+      "INF"
+    ]
+  ],
+  "lolì": [
+    [
+      "lolì",
+      "that"
+    ]
+  ],
+  "bin": [
+    [
+      "bin",
+      "well"
+    ]
+  ],
+  "trové": [
+    [
+      "trov",
+      "find"
+    ],
+    [
+      "-é",
+      "INF"
+    ]
+  ],
+  "RAICES": [
+    [
+      "RAICE",
+      "root"
+    ],
+    [
+      "-S",
+      "PL"
+    ]
+  ],
+  "pròpi": [
+    [
+      "pròpi",
+      "indeed"
+    ]
+  ],
+  "una": [
+    [
+      "una",
+      "one:F"
+    ]
+  ],
+  "còsa": [
+    [
+      "còs",
+      "thing"
+    ],
+    [
+      "-a",
+      "SG"
+    ]
+  ],
+  "bona": [
+    [
+      "bon",
+      "good"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "bon": [
+    [
+      "bon",
+      "good"
+    ]
+  ],
+  "për": [
+    [
+      "për",
+      "for"
+    ]
+  ],
+  "PERSONAL": [
+    [
+      "PERSONAL",
+      "personal"
+    ]
+  ],
+  "cit": [
+    [
+      "cit",
+      "child"
+    ]
+  ],
+  "scotava": [
+    [
+      "scot",
+      "listen"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-a",
+      "1SG"
+    ]
+  ],
+  "ca": [
+    [
+      "ca",
+      ""
+    ]
+  ],
+  "parent": [
+    [
+      "parent",
+      "parent"
+    ]
+  ],
+  "coma": [
+    [
+      "coma",
+      "as"
+    ]
+  ],
+  "parloma": [
+    [
+      "parl",
+      "speak"
+    ],
+    [
+      "-oma",
+      "1PL"
+    ]
+  ],
+  "dòpo": [
+    [
+      "dòpo",
+      "after"
+    ]
+  ],
+  "passavo": [
+    [
+      "pass",
+      "pass"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-o",
+      "1SG"
+    ]
+  ],
+  "al": [
+    [
+      "al",
+      ""
+    ]
+  ],
+  "peui": [
+    [
+      "peui",
+      "then"
+    ]
+  ],
+  "quasi": [
+    [
+      "quasi",
+      "almost"
+    ]
+  ],
+  "IDIOMA": [
+    [
+      "IDIOMA",
+      "language:SG"
+    ]
+  ],
+  "mëssa": [
+    [
+      "mëss",
+      "mass"
+    ],
+    [
+      "-a",
+      "SG"
+    ]
+  ],
+  "hai": [
+    [
+      "hai",
+      "have:1SG"
+    ]
+  ],
+  "fe": [
+    [
+      "fe",
+      ""
+    ]
+  ],
+  "NUNCA": [
+    [
+      "NUNCA",
+      "never"
+    ]
+  ],
+  "niente": [
+    [
+      "niente",
+      "nothing"
+    ]
+  ],
+  "ancora": [
+    [
+      "ancora",
+      "yet"
+    ]
+  ],
+  "PAPEL": [
+    [
+      "PAPEL",
+      "paper"
+    ]
+  ],
+  "speto": [
+    [
+      "spet",
+      "wait"
+    ],
+    [
+      "-o",
+      "1SG"
+    ]
+  ],
+  "còro": [
+    [
+      "còr",
+      "choir"
+    ],
+    [
+      "-o",
+      "SG"
+    ]
+  ],
+  "ëd": [
+    [
+      "ëd",
+      "of"
+    ]
+  ],
+  "PRONTO": [
+    [
+      "PRONTO",
+      "soon"
+    ]
+  ],
+  "veulo": [
+    [
+      "veul",
+      "want"
+    ],
+    [
+      "-o",
+      "1SG"
+    ]
+  ],
+  "manda": [
+    [
+      "manda",
+      "send:PP"
+    ]
+  ],
+  "me": [
+    [
+      "me",
+      ""
+    ]
+  ],
+  "dal": [
+    [
+      "dal",
+      "from_the:M.SG"
+    ]
+  ],
+  "famija": [
+    [
+      "famij",
+      "family"
+    ],
+    [
+      "-a",
+      "SG"
+    ]
+  ],
+  "MISAL": [
+    [
+      "MISAL",
+      "missal"
+    ]
+  ],
+  "canti": [
+    [
+      "cant",
+      "song"
+    ],
+    [
+      "-i",
+      "PL"
+    ]
+  ],
+  "prima": [
+    [
+      "prima",
+      "before"
+    ]
+  ],
+  "mòrt": [
+    [
+      "mòrt",
+      ""
+    ]
+  ],
+  "fé": [
+    [
+      "fé",
+      "do:INF"
+    ]
+  ],
+  "messa": [
+    [
+      "mess",
+      "mass"
+    ],
+    [
+      "-a",
+      "SG"
+    ]
+  ],
+  "ën": [
+    [
+      "ën",
+      "in"
+    ]
+  ],
+  "avìo": [
+    [
+      "avìo",
+      "have:IMPF.1SG"
+    ]
+  ],
+  "cognission": [
+    [
+      "cognission",
+      "awareness"
+    ]
+  ],
+  "ven": [
+    [
+      "ven",
+      "come:3SG"
+    ]
+  ],
+  "VINE": [
+    [
+      "VIN",
+      "come"
+    ],
+    [
+      "-E",
+      "PST.1SG"
+    ]
+  ],
+  "TRES": [
+    [
+      "TRES",
+      "three"
+    ]
+  ],
+  "tre": [
+    [
+      "tre",
+      "three"
+    ]
+  ],
+  "VEZ": [
+    [
+      "VEZ",
+      "time"
+    ]
+  ],
+  "ESTOY": [
+    [
+      "ESTOY",
+      "be:1SG"
+    ]
+  ],
+  "VISITA": [
+    [
+      "VISIT",
+      "visit"
+    ],
+    [
+      "-A",
+      "SG"
+    ]
+  ],
+  "xxx": [
+    [
+      "xxx",
+      ""
+    ]
+  ],
+  "SOY": [
+    [
+      "SOY",
+      "be:1SG"
+    ]
+  ],
+  "CONOCERLO": [
+    [
+      "CONOC",
+      "know"
+    ],
+    [
+      "-ER",
+      "INF"
+    ],
+    [
+      "-LOS",
+      "3PL.M.ACC"
+    ]
+  ],
+  "NUESTRAS": [
+    [
+      "NUESTR",
+      "our"
+    ],
+    [
+      "-AS",
+      "F.PL"
+    ]
+  ],
+  "RAÍCES": [
+    [
+      "RAÍC",
+      "root"
+    ],
+    [
+      "-ES",
+      "PL"
+    ]
+  ],
+  "IDENTIDAD": [
+    [
+      "IDENTIDAD",
+      "identity"
+    ]
+  ],
+  "TODA": [
+    [
+      "TOD",
+      "all"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "ESTA": [
+    [
+      "ESTA",
+      ""
+    ]
+  ],
+  "REGIONE": [
+    [
+      "REGION",
+      "region"
+    ],
+    [
+      "-E",
+      "SG"
+    ]
+  ],
+  "CÓRDOBA": [
+    [
+      "CÓRDOBA",
+      "Cordova"
+    ]
+  ],
+  "L": [
+    [
+      "L",
+      "the:F.SG"
+    ]
+  ],
+  "ARGENTINA": [
+    [
+      "ARGENTINA",
+      "Argentina"
+    ]
+  ],
+  "piemònt": [
+    [
+      "piemònt",
+      "Piedmont"
+    ]
+  ],
+  "viagià": [
+    [
+      "viagià",
+      "travel:PP"
+    ]
+  ],
+  "ISRAEL": [
+    [
+      "ISRAEL",
+      "Israel"
+    ]
+  ],
+  "ADUANA": [
+    [
+      "ADUANA",
+      "customs"
+    ]
+  ],
+  "MADRID": [
+    [
+      "MADRID",
+      "Madrid"
+    ]
+  ],
+  "custòdia": [
+    [
+      "custòdia",
+      "custody"
+    ]
+  ],
+  "pja": [
+    [
+      "pja",
+      "take:3SG"
+    ]
+  ],
+  "dòcument": [
+    [
+      "dòcument",
+      "document"
+    ]
+  ],
+  "varda": [
+    [
+      "varda",
+      "look:PP"
+    ]
+  ],
+  "dis": [
+    [
+      "dis",
+      "say:3SG"
+    ]
+  ],
+  "FREYRE": [
+    [
+      "FREYRE",
+      "Freyre"
+    ]
+  ],
+  "CORDOBA": [
+    [
+      "CORDOBA",
+      "Cordoba"
+    ]
+  ],
+  "dì": [
+    [
+      "dì",
+      "say:PP"
+    ]
+  ],
+  "come": [
+    [
+      "come",
+      "how"
+    ]
+  ],
+  "sa": [
+    [
+      "sa",
+      ""
+    ]
+  ],
+  "sossì": [
+    [
+      "sossì",
+      "this"
+    ]
+  ],
+  "SABE": [
+    [
+      "SAB",
+      "know"
+    ],
+    [
+      "-E",
+      "3SG"
+    ]
+  ],
+  "piemonteisa": [
+    [
+      "piemonteis",
+      "Piedmontese"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "ESO": [
+    [
+      "ESO",
+      "this:M"
+    ]
+  ],
+  "tramolé": [
+    [
+      "tramol",
+      "shiver"
+    ],
+    [
+      "-é",
+      "INF"
+    ]
+  ],
+  "CHISTE": [
+    [
+      "CHIST",
+      "joke"
+    ],
+    [
+      "-E",
+      "SG"
+    ]
+  ],
+  "DIVINANZA": [
+    [
+      "DIVINANZA",
+      "riddle"
+    ]
+  ],
+  "rotonda": [
+    [
+      "rotond",
+      "round"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "sensa": [
+    [
+      "sensa",
+      "without"
+    ]
+  ],
+  "capa": [
+    [
+      "capa",
+      "head"
+    ]
+  ],
+  "fonda": [
+    [
+      "fonda",
+      "bottom"
+    ]
+  ],
+  "neuit": [
+    [
+      "neuit",
+      "night"
+    ]
+  ],
+  "DEBE": [
+    [
+      "DEB",
+      "have_to"
+    ],
+    [
+      "-E",
+      "3SG"
+    ]
+  ],
+  "SABER": [
+    [
+      "SABER",
+      "know"
+    ],
+    [
+      "-ER",
+      "INF"
+    ]
+  ],
+  "avìa": [
+    [
+      "avìa",
+      "have:IMPF.1SG"
+    ]
+  ],
+  "già": [
+    [
+      "già",
+      "already"
+    ]
+  ],
+  "gambalonga": [
+    [
+      "gambalonga",
+      "gambalonga"
+    ]
+  ],
+  "sai": [
+    [
+      "sai",
+      "know:1SG"
+    ]
+  ],
+  "t": [
+    [
+      "t=",
+      "2SG.DAT"
+    ]
+  ],
+  "conta": [
+    [
+      "conta",
+      "tell:PP"
+    ]
+  ],
+  "chiel": [
+    [
+      "chiel",
+      "3SG.M"
+    ]
+  ],
+  "fasia": [
+    [
+      "fasia",
+      "do:IMPF.3SG"
+    ]
+  ],
+  "HUMOR": [
+    [
+      "HUMOR",
+      "humor"
+    ]
+  ],
+  "preivi": [
+    [
+      "preivi",
+      "priest"
+    ]
+  ],
+  "përchè": [
+    [
+      "përchè",
+      "because"
+    ]
+  ],
+  "SUBÌA": [
+    [
+      "SUBÌA",
+      "raise:IMPF.3SG"
+    ]
+  ],
+  "TON": [
+    [
+      "TON",
+      "tone:SG"
+    ]
+  ],
+  "fasía": [
+    [
+      "fas",
+      "do"
+    ],
+    [
+      "-í",
+      "IMPF"
+    ],
+    [
+      "-a",
+      "3SG"
+    ]
+  ],
+  "TRADUCCIÓN": [
+    [
+      "TRADUCCIÓN",
+      "translation"
+    ]
+  ],
+  "ENTENDÍA": [
+    [
+      "ENTENDÍA",
+      "hear:IMPF.3SG"
+    ]
+  ],
+  "pì": [
+    [
+      "pì",
+      "more"
+    ]
+  ],
+  "gròss": [
+    [
+      "gròss",
+      "big"
+    ]
+  ],
+  "it": [
+    [
+      "it=",
+      "2SG"
+    ]
+  ],
+  "capisse": [
+    [
+      "capiss",
+      "understand"
+    ],
+    [
+      "-e",
+      "2SG"
+    ]
+  ],
+  "NADA": [
+    [
+      "NADA",
+      "nothing"
+    ]
+  ],
+  "MAS": [
+    [
+      "MAS",
+      "more"
+    ]
+  ],
+  "BUENO": [
+    [
+      "BUENO",
+      "well"
+    ]
+  ],
+  "tante": [
+    [
+      "tant",
+      "many"
+    ],
+    [
+      "-e",
+      "F.PL"
+    ]
+  ],
+  "grassie": [
+    [
+      "grassi",
+      "thank"
+    ],
+    [
+      "-e",
+      "PL"
+    ]
+  ],
+  "saloti": [
+    [
+      "saluti",
+      "greeting:PL"
+    ]
+  ],
+  "tutti": [
+    [
+      "tutt",
+      "all"
+    ],
+    [
+      "-i",
+      "M.PL"
+    ]
+  ],
+  "i": [
+    [
+      "i",
+      "the:M.PL"
+    ]
+  ],
+  "TURINENSES": [
+    [
+      "TURINENSES",
+      "turinese"
+    ]
+  ],
+  "DIECIOCHO": [
+    [
+      "DIECIOCHO",
+      "eighteen"
+    ]
+  ],
+  "JULIO": [
+    [
+      "JULIO",
+      "July"
+    ]
+  ],
+  "LE": [
+    [
+      "LE",
+      ""
+    ]
+  ],
+  "USAR": [
+    [
+      "US",
+      "use"
+    ],
+    [
+      "-AR",
+      "INF"
+    ]
+  ],
+  "POCO": [
+    [
+      "POCO",
+      "little"
+    ]
+  ],
+  "APRENDIMOS": [
+    [
+      "APREND",
+      "learn"
+    ],
+    [
+      "-IMOS",
+      "1PL"
+    ]
+  ],
+  "CASA": [
+    [
+      "CAS",
+      "house"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "FAMILIA": [
+    [
+      "FAMILI",
+      "family"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "EH": [
+    [
+      "EH",
+      "eh"
+    ]
+  ],
+  "VIVÍA": [
+    [
+      "VIV",
+      "live"
+    ],
+    [
+      "-Í",
+      "IMPF"
+    ],
+    [
+      "-A",
+      "3SG"
+    ]
+  ],
+  "ABUELO": [
+    [
+      "ABUEL",
+      "grandparent"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "ERA": [
+    [
+      "ERA",
+      "be:IMPF.3SG"
+    ]
+  ],
+  "DI": [
+    [
+      "DI",
+      "of"
+    ]
+  ],
+  "CANALE": [
+    [
+      "CANALE",
+      "Canale"
+    ]
+  ],
+  "CUNEO": [
+    [
+      "CUNEO",
+      "Cuneo"
+    ]
+  ],
+  "DELL": [
+    [
+      "DELL",
+      "of_the"
+    ]
+  ],
+  "ITALIA": [
+    [
+      "ITALIA",
+      "Italy"
+    ]
+  ],
+  "DESPUÉS": [
+    [
+      "DESPUÉS",
+      "afterwards"
+    ]
+  ],
+  "TE": [
+    [
+      "TE",
+      "2SG.OBL"
+    ]
+  ],
+  "QUIERO": [
+    [
+      "QUIER",
+      "want"
+    ],
+    [
+      "-O",
+      "1SG"
+    ]
+  ],
+  "MOSTRAR": [
+    [
+      "MOSTR",
+      "show"
+    ],
+    [
+      "-AR",
+      "INF"
+    ]
+  ],
+  "UNOS": [
+    [
+      "UN",
+      "some"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "FAMILIARES": [
+    [
+      "FAMILIAR",
+      "relative"
+    ],
+    [
+      "-ES",
+      "PL"
+    ]
+  ],
+  "TENGO": [
+    [
+      "TENG",
+      "have"
+    ],
+    [
+      "-O",
+      "1SG"
+    ]
+  ],
+  "ALLÁ": [
+    [
+      "ALLÁ",
+      "there"
+    ]
+  ],
+  "SI": [
+    [
+      "SI",
+      ""
+    ]
+  ],
+  "QUEDA": [
+    [
+      "QUED",
+      "stay"
+    ],
+    [
+      "-A",
+      "3SG"
+    ]
+  ],
+  "MUY": [
+    [
+      "MUY",
+      "very"
+    ]
+  ],
+  "LEJOS": [
+    [
+      "LEJOS",
+      "far_away"
+    ]
+  ],
+  "ME": [
+    [
+      "ME",
+      "1SG.OBL"
+    ]
+  ],
+  "MANTENGO": [
+    [
+      "MANTENG",
+      "maintain"
+    ],
+    [
+      "-O",
+      "1SG"
+    ]
+  ],
+  "CONTACTO": [
+    [
+      "CONTACT",
+      "contact"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "CON": [
+    [
+      "CON",
+      "with"
+    ]
+  ],
+  "ELLOS": [
+    [
+      "ELLOS",
+      "3PL:M"
+    ]
+  ],
+  "ENTIENDO": [
+    [
+      "ENTIEND",
+      "understand"
+    ],
+    [
+      "-O",
+      "1SG"
+    ]
+  ],
+  "capisso": [
+    [
+      "capiss",
+      "understand"
+    ],
+    [
+      "-o",
+      "1SG"
+    ]
+  ],
+  "VOY": [
+    [
+      "VOY",
+      "go:1SG"
+    ]
+  ],
+  "AL": [
+    [
+      "AL",
+      "to_the:M.SG"
+    ]
+  ],
+  "CORO": [
+    [
+      "COR",
+      "choir"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "PIAMONTÉS": [
+    [
+      "PIAMONTÉS",
+      "Piedmontese"
+    ]
+  ],
+  "CANTAMOS": [
+    [
+      "CANT",
+      "song"
+    ],
+    [
+      "-AMOS",
+      "1PL"
+    ]
+  ],
+  "UNAS": [
+    [
+      "UN",
+      "some"
+    ],
+    [
+      "AS",
+      "F.PL"
+    ]
+  ],
+  "CANCIONES": [
+    [
+      "CANCION",
+      "song"
+    ],
+    [
+      "-ES",
+      "PL"
+    ]
+  ],
+  "MAYORÍA": [
+    [
+      "MAYORÍ",
+      "majority"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "ITALIANO": [
+    [
+      "ITALIAN",
+      "Italian"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "NO": [
+    [
+      "NO",
+      "no"
+    ]
+  ],
+  "parla": [
+    [
+      "parl",
+      "talk"
+    ],
+    [
+      "-a",
+      "3SG"
+    ]
+  ],
+  "piemontesina": [
+    [
+      "piemontesin",
+      "Piedmontese"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "bela": [
+    [
+      "bel",
+      "beautiful"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "sarai": [
+    [
+      "sar",
+      "be:FUT"
+    ],
+    [
+      "-ai",
+      "2SG"
+    ]
+  ],
+  "sola": [
+    [
+      "sol",
+      "only"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "estela": [
+    [
+      "estel",
+      "star"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "briserà": [
+    [
+      "bris",
+      "burn"
+    ],
+    [
+      "erà",
+      "FUT.3SG"
+    ]
+  ],
+  "për": [
+    [
+      "për",
+      "for"
+    ]
+  ],
+  "ben": [
+    [
+      "ben",
+      "well"
+    ]
+  ],
+  "cantoma": [
+    [
+      "cant",
+      "song"
+    ],
+    [
+      "-oma",
+      "1PL"
+    ]
+  ],
+  "sta": [
+    [
+      "st",
+      "this"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "canson": [
+    [
+      "canson",
+      "song"
+    ]
+  ],
+  "oma": [
+    [
+      "oma",
+      "AUX:1PL"
+    ]
+  ],
+  "cante": [
+    [
+      "cant",
+      "song"
+    ],
+    [
+      "-e",
+      "INF"
+    ]
+  ],
+  "ansima": [
+    [
+      "ansima",
+      "together"
+    ]
+  ],
+  "canton": [
+    [
+      "canton",
+      "corner"
+    ]
+  ],
+  "TENÍA": [
+    [
+      "TEN",
+      "have"
+    ],
+    [
+      "-Í",
+      "IMPF"
+    ],
+    [
+      "-A",
+      "1SG"
+    ]
+  ],
+  "HABER": [
+    [
+      "HABER",
+      "AUX:INF"
+    ]
+  ],
+  "TRAÍDO": [
+    [
+      "TRA",
+      "bring"
+    ],
+    [
+      "ÍD",
+      "PP"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "LETRAS": [
+    [
+      "LETR",
+      "text"
+    ],
+    [
+      "-AS",
+      "PL"
+    ]
+  ],
+  "m": [
+    [
+      "m=",
+      "1SG.OBL"
+    ]
+  ],
+  "arcòrdo": [
+    [
+      "arcòrd",
+      "remember"
+    ],
+    [
+      "-o",
+      "1SG"
+    ]
+  ],
+  "pi": [
+    [
+      "pi",
+      "anymore"
+    ]
+  ],
+  "YO": [
+    [
+      "YO",
+      "1SG"
+    ]
+  ],
+  "PIEMONTES": [
+    [
+      "PIEMONTES",
+      "Piedmontese"
+    ]
+  ],
+  "ACÀ": [
+    [
+      "ACÀ",
+      "here"
+    ]
+  ],
+  "ASOCIACIÓN": [
+    [
+      "ASOCIACIÓN",
+      "association:SG"
+    ]
+  ],
+  "per": [
+    [
+      "per",
+      ""
+    ]
+  ],
+  "UNA": [
+    [
+      "UNA",
+      "one:F"
+    ]
+  ],
+  "TENEMOS": [
+    [
+      "TEN",
+      "have"
+    ],
+    [
+      "-EMOS",
+      "1PL"
+    ]
+  ],
+  "BUEN": [
+    [
+      "BUEN",
+      "nice"
+    ]
+  ],
+  "RECUERDO": [
+    [
+      "RECUERD",
+      "memory"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "ESTOS": [
+    [
+      "EST",
+      "this"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "GRINGOS": [
+    [
+      "GRING",
+      "Gringo"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "HERMOSOS": [
+    [
+      "HERMOS",
+      "beautiful"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "VINIERON": [
+    [
+      "VIN",
+      "come"
+    ],
+    [
+      "-IERON",
+      "PRF.3PL"
+    ]
+  ],
+  "HICIERON": [
+    [
+      "HIC",
+      "do"
+    ],
+    [
+      "-IERON",
+      "PRF.3PL"
+    ]
+  ],
+  "GRANDE": [
+    [
+      "GRANDE",
+      "big"
+    ]
+  ],
+  "PAÍS": [
+    [
+      "PAÍS",
+      "village"
+    ]
+  ],
+  "LINDO": [
+    [
+      "LIND",
+      "beautiful"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "HERMOSO": [
+    [
+      "HERMOS",
+      "beautiful"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "HABÍA": [
+    [
+      "HAB",
+      "have"
+    ],
+    [
+      "-Í",
+      "IMPF"
+    ],
+    [
+      "-A",
+      "1SG"
+    ]
+  ],
+  "PONER": [
+    [
+      "PON",
+      "put"
+    ],
+    [
+      "-ER",
+      "INF"
+    ]
+  ],
+  "QUÉ": [
+    [
+      "QUÉ",
+      "what"
+    ]
+  ],
+  "VA": [
+    [
+      "VA",
+      "go:3SG"
+    ]
+  ],
+  "HACER": [
+    [
+      "HAC",
+      "do"
+    ],
+    [
+      "-ER",
+      "INF"
+    ]
+  ],
+  "XXX": [
+    [
+      "XXX",
+      ""
+    ]
+  ],
+  "cantava": [
+    [
+      "cant",
+      "song"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-a",
+      "3SG"
+    ]
+  ],
+  "pinòta": [
+    [
+      "pinòta",
+      "pinòta"
+    ]
+  ],
+  "bordel": [
+    [
+      "bordel",
+      "mess"
+    ]
+  ],
+  "madòna": [
+    [
+      "madòna",
+      "Madonna"
+    ]
+  ],
+  "fija": [
+    [
+      "fij",
+      "child"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "colòna": [
+    [
+      "colòn",
+      "settler"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "FUI": [
+    [
+      "FUI",
+      "be:PRF.1SG"
+    ]
+  ],
+  "MADONNA": [
+    [
+      "MADONNA",
+      "Madonna"
+    ]
+  ],
+  "ONDE": [
+    [
+      "ONDE",
+      "where"
+    ]
+  ],
+  "SON": [
+    [
+      "SON",
+      ""
+    ]
+  ],
+  "TARJETA": [
+    [
+      "TARJET",
+      "card"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "TIENE": [
+    [
+      "TIEN",
+      "have"
+    ],
+    [
+      "-E",
+      "3SG"
+    ]
+  ],
+  "BAR": [
+    [
+      "BAR",
+      "bar"
+    ]
+  ],
+  "ESTUVE": [
+    [
+      "ESTUVE",
+      "be:PRF.1SG"
+    ]
+  ],
+  "DÍAS": [
+    [
+      "DÍA",
+      "day"
+    ],
+    [
+      "-S",
+      "PL"
+    ]
+  ],
+  "O": [
+    [
+      "O",
+      "or"
+    ]
+  ],
+  "DIAS": [
+    [
+      "DÍA",
+      "day"
+    ],
+    [
+      "-S",
+      "PL"
+    ]
+  ],
+  "LLEVARON": [
+    [
+      "LLEV",
+      "bring"
+    ],
+    [
+      "-ARON",
+      "PRF:3PL"
+    ]
+  ],
+  "VER": [
+    [
+      "V",
+      "see"
+    ],
+    [
+      "-ER",
+      "INF"
+    ]
+  ],
+  "LOS": [
+    [
+      "LOS",
+      "the:M.PL"
+    ]
+  ],
+  "DONDE": [
+    [
+      "DONDE",
+      "where"
+    ]
+  ],
+  "NACIÓ": [
+    [
+      "NAC",
+      "be_born"
+    ],
+    [
+      "-IÓ",
+      "PRF.3SG"
+    ]
+  ],
+  "HASTA": [
+    [
+      "HASTA",
+      "from"
+    ]
+  ],
+  "HERMANOS": [
+    [
+      "HERMAN",
+      "brother"
+    ],
+    [
+      "-OS",
+      "M.PL."
+    ]
+  ],
+  "UNO": [
+    [
+      "UNO",
+      "one"
+    ]
+  ],
+  "VOLVIÓ": [
+    [
+      "VOLV",
+      "come.back"
+    ],
+    [
+      "-IÓ",
+      "PRF.3SG"
+    ]
+  ],
+  "QUEDARON": [
+    [
+      "QUED",
+      "stay"
+    ],
+    [
+      "-ARON",
+      "PRF.3PL"
+    ]
+  ],
+  "TIO": [
+    [
+      "TI",
+      "uncle"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "PEDÍ": [
+    [
+      "PED",
+      "ask"
+    ],
+    [
+      "-Í",
+      "PRF.1SG"
+    ]
+  ],
+  "COSAS": [
+    [
+      "COSAS",
+      "thing"
+    ]
+  ],
+  "DEL": [
+    [
+      "DEL",
+      "of_the"
+    ]
+  ],
+  "PIEMONTE": [
+    [
+      "PIEMONT",
+      "Piedmont"
+    ]
+  ],
+  "DISCOS": [
+    [
+      "DISC",
+      ""
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "CASETES": [
+    [
+      "CASET",
+      ""
+    ],
+    [
+      "-ES",
+      "PL"
+    ]
+  ],
+  "ENTONCES": [
+    [
+      "ENTONCES",
+      "so"
+    ]
+  ],
+  "DICE": [
+    [
+      "DIC",
+      "say"
+    ],
+    [
+      "-E",
+      "3SG"
+    ]
+  ],
+  "SE": [
+    [
+      "SE",
+      ""
+    ]
+  ],
+  "PERDIÓ": [
+    [
+      "PERD",
+      "lose"
+    ],
+    [
+      "-IÓ",
+      "PRF.3SG"
+    ]
+  ],
+  "TRADUCCION": [
+    [
+      "TRADUCCION",
+      "translation"
+    ]
+  ],
+  "PALABRAS": [
+    [
+      "PALABR",
+      "word"
+    ],
+    [
+      "-AS",
+      "F.PL"
+    ]
+  ],
+  "parola": [
+    [
+      "parola",
+      "word"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "SÉ": [
+    [
+      "SÉ",
+      "know:1SG"
+    ]
+  ],
+  "parai": [
+    [
+      "parai",
+      "like_this"
+    ]
+  ],
+  "o": [
+    [
+      "o",
+      "or"
+    ]
+  ],
+  "DECÍAN": [
+    [
+      "DEC",
+      "say"
+    ],
+    [
+      "-Í",
+      "IMPF"
+    ],
+    [
+      "-AN",
+      "3PL"
+    ]
+  ],
+  "MIS": [
+    [
+      "MI",
+      "my"
+    ],
+    [
+      "S",
+      "PL"
+    ]
+  ],
+  "PADRE": [
+    [
+      "PADRE",
+      "father"
+    ]
+  ],
+  "CONTABA": [
+    [
+      "CONT",
+      "tell"
+    ],
+    [
+      "-AB",
+      "IMPF"
+    ],
+    [
+      "-A",
+      "3SG"
+    ]
+  ],
+  "HABLO": [
+    [
+      "HABL",
+      "talk"
+    ],
+    [
+      "-O",
+      "1SG"
+    ]
+  ],
+  "CASTELLANO": [
+    [
+      "CASTELLAN",
+      "Castilian"
+    ],
+    [
+      "-O",
+      "SG"
+    ]
+  ],
+  "VIVÍAN": [
+    [
+      "VIV",
+      "live"
+    ],
+    [
+      "-Í",
+      "IMPF"
+    ],
+    [
+      "-AN",
+      "3PL"
+    ]
+  ],
+  "CAMPO": [
+    [
+      "CAMP",
+      "countryside"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "COLONIA": [
+    [
+      "COLONI",
+      "colony"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "VIVIR": [
+    [
+      "VIV",
+      "live"
+    ],
+    [
+      "-IR",
+      "INF"
+    ]
+  ],
+  "COLEGIO": [
+    [
+      "COLEGI",
+      "school"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "PRIMARIO": [
+    [
+      "PRIMARI",
+      "primary"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "ALLÍ": [
+    [
+      "ALLÍ",
+      "there"
+    ]
+  ],
+  "USANDO": [
+    [
+      "US",
+      "use"
+    ],
+    [
+      "-ANDO",
+      "GER"
+    ]
+  ],
+  "PALESTRA": [
+    [
+      "PALESTR",
+      "gym"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "PREGUNTABA": [
+    [
+      "PREGUNT",
+      "ask"
+    ],
+    [
+      "-AB",
+      "IMPF"
+    ],
+    [
+      "-A",
+      "3SG"
+    ]
+  ],
+  "TÍA": [
+    [
+      "TÍ",
+      "uncle"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "HABLABAN": [
+    [
+      "HABL",
+      "speak"
+    ],
+    [
+      "-AB",
+      "IMPF"
+    ],
+    [
+      "-AN",
+      "3PL"
+    ]
+  ],
+  "TUVIERON": [
+    [
+      "TUVIERON",
+      "have:PRF.3PL"
+    ]
+  ],
+  "ENSEÑAR": [
+    [
+      "ENSEÑ",
+      "teach"
+    ],
+    [
+      "-AR",
+      "INF"
+    ]
+  ],
+  "MAESTRA": [
+    [
+      "MAESTR",
+      "teacher"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "CUANDO": [
+    [
+      "CUANDO",
+      "when"
+    ]
+  ],
+  "VINO": [
+    [
+      "VINO",
+      ""
+    ]
+  ],
+  "ESCUELA": [
+    [
+      "ESCUEL",
+      "school"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "PRIMARIA": [
+    [
+      "PRIMARI",
+      "primary"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "ACÁ": [
+    [
+      "ACÁ",
+      "here"
+    ]
+  ],
+  "IBA": [
+    [
+      "IBA",
+      "go:IMPF.3SG"
+    ]
+  ],
+  "POR": [
+    [
+      "POR",
+      "for"
+    ]
+  ],
+  "SEMANA": [
+    [
+      "SEMAN",
+      "week"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "ENSEÑABA": [
+    [
+      "ENSEÑ",
+      "teach"
+    ],
+    [
+      "-AB",
+      "IMPF"
+    ],
+    [
+      "-A",
+      "3SG"
+    ]
+  ],
+  "BASICO": [
+    [
+      "BASIC",
+      "basic"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "COLLEGIO": [
+    [
+      "COLLEGI",
+      "school"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "ENSEÑARLE": [
+    [
+      "ENSEÑ",
+      "teach"
+    ],
+    [
+      "-AR",
+      "INF"
+    ],
+    [
+      "-LE",
+      "3SG.OBJ"
+    ]
+  ],
+  "PORQUE": [
+    [
+      "PORQUE",
+      "because"
+    ]
+  ],
+  "TODO": [
+    [
+      "TOD",
+      "all"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "PIEMONTÉS": [
+    [
+      "PIEMONTÉS",
+      "Piedmontese"
+    ]
+  ],
+  "TAL": [
+    [
+      "TAL",
+      "such"
+    ]
+  ],
+  "COMUNIDADES": [
+    [
+      "COMUNIDAD",
+      "community"
+    ],
+    [
+      "-ES",
+      "PL"
+    ]
+  ],
+  "CHICOS": [
+    [
+      "CHIC",
+      "young"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "NUESTROS": [
+    [
+      "NUESTR",
+      "our"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "NOS": [
+    [
+      "NOS",
+      "1PL:OBL"
+    ]
+  ],
+  "HAN": [
+    [
+      "HAN",
+      "AUX:3PL"
+    ]
+  ],
+  "SENTIDO": [
+    [
+      "SENT",
+      "hear"
+    ],
+    [
+      "-IDO",
+      "PP"
+    ]
+  ],
+  "HABLANDO": [
+    [
+      "HABL",
+      "talk"
+    ],
+    [
+      "-ANDO",
+      "GER"
+    ]
+  ],
+  "CRIOLLO": [
+    [
+      "CRIOLL",
+      "native"
+    ],
+    [
+      "-O",
+      "SG"
+    ]
+  ],
+  "SÍ": [
+    [
+      "SÍ",
+      "yes"
+    ]
+  ],
+  "DIALECTO": [
+    [
+      "DIALECT",
+      "dialect"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "CONOCER": [
+    [
+      "CONOC",
+      "know"
+    ],
+    [
+      "-ER",
+      "INF"
+    ]
+  ],
+  "TRADICION": [
+    [
+      "TRADICION",
+      "tradition"
+    ]
+  ],
+  "VIVE": [
+    [
+      "VIV",
+      "live"
+    ],
+    [
+      "-E",
+      "3SG"
+    ]
+  ],
+  "Sì": [
+    [
+      "Sì",
+      "yes"
+    ]
+  ],
+  "QUERIA": [
+    [
+      "QUER",
+      ""
+    ],
+    [
+      "I",
+      ""
+    ],
+    [
+      "-A",
+      ""
+    ]
+  ],
+  "TERMINAR": [
+    [
+      "TERMIN",
+      ""
+    ],
+    [
+      "-AR",
+      ""
+    ]
+  ],
+  "ESTABA": [
+    [
+      "EST",
+      ""
+    ],
+    [
+      "-AB",
+      ""
+    ],
+    [
+      "-A",
+      ""
+    ]
+  ],
+  "DICIENDO": [
+    [
+      "DIC",
+      ""
+    ],
+    [
+      "-IENDO",
+      ""
+    ]
+  ],
+  "IRE": [
+    [
+      "-IR",
+      ""
+    ],
+    [
+      "-E",
+      ""
+    ]
+  ],
+  "SEÑORA": [
+    [
+      "SEÑOR",
+      ""
+    ],
+    [
+      "-A",
+      ""
+    ]
+  ],
+  "CRUZE": [
+    [
+      "CRUZ",
+      ""
+    ],
+    [
+      "-E",
+      ""
+    ]
+  ],
+  "AH": [
+    [
+      "AH",
+      ""
+    ]
+  ],
+  "GRACIAS": [
+    [
+      "GRACIAS",
+      "thanks"
+    ]
+  ],
+  "USTEDES": [
+    [
+      "USTEDES",
+      "2PL"
+    ]
+  ],
+  "INVITARNOS": [
+    [
+      "INVIT",
+      "invite"
+    ],
+    [
+      "-AR",
+      "INF"
+    ],
+    [
+      "NOS",
+      "1PL:OBL"
+    ]
+  ],
+  "TRECE": [
+    [
+      "TRECE",
+      "thirteen"
+    ]
+  ],
+  "OCTUBRE": [
+    [
+      "OCTUBRE",
+      "October"
+    ]
+  ],
+  "io": [
+    [
+      "io",
+      "1SG.NOM"
+    ]
+  ],
+  "sono": [
+    [
+      "sono",
+      "be:1SG"
+    ]
+  ],
+  "nato": [
+    [
+      "nato",
+      "be_born:PP"
+    ]
+  ],
+  "quindici": [
+    [
+      "quindici",
+      "fifteen"
+    ]
+  ],
+  "chilometri": [
+    [
+      "chilometr",
+      "kilometer"
+    ],
+    [
+      "-i",
+      "M.PL"
+    ]
+  ],
+  "qui": [
+    [
+      "qui",
+      "here"
+    ]
+  ],
+  "quando": [
+    [
+      "quando",
+      "when"
+    ]
+  ],
+  "nòno": [
+    [
+      "nòn",
+      "grandparent"
+    ],
+    [
+      "-o",
+      "M.SG"
+    ]
+  ],
+  "nòna": [
+    [
+      "nòn",
+      "grandparent"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "papà": [
+    [
+      "papà",
+      "dad"
+    ]
+  ],
+  "MAMÁ": [
+    [
+      "MAMÁ",
+      "mom"
+    ]
+  ],
+  "ant": [
+    [
+      "ant",
+      "in"
+    ]
+  ],
+  "tavola": [
+    [
+      "tavol",
+      "table"
+    ],
+    [
+      "-a",
+      "SG"
+    ]
+  ],
+  "fin": [
+    [
+      "fin",
+      "until"
+    ]
+  ],
+  "andait": [
+    [
+      "andait",
+      "go:PP"
+    ]
+  ],
+  "scòla": [
+    [
+      "scòl",
+      "school"
+    ],
+    [
+      "-a",
+      "SG"
+    ]
+  ],
+  "argentin": [
+    [
+      "argentin",
+      "Argentinian"
+    ]
+  ],
+  "si": [
+    [
+      "si",
+      "IMPERS"
+    ]
+  ],
+  "paròle": [
+    [
+      "paròl",
+      "word"
+    ],
+    [
+      "-e",
+      "PL"
+    ]
+  ],
+  "argentine": [
+    [
+      "argentin",
+      "Argentinian"
+    ],
+    [
+      "-e",
+      "F.PL"
+    ]
+  ],
+  "le": [
+    [
+      "le",
+      "the:F.PL"
+    ]
+  ],
+  "FALTABA": [
+    [
+      "FALT",
+      "miss"
+    ],
+    [
+      "-AB",
+      "IMPF"
+    ],
+    [
+      "-A",
+      "3SG"
+    ]
+  ],
+  "chicòs": [
+    [
+      "chicòs",
+      "something"
+    ]
+  ],
+  "diceva": [
+    [
+      "dic",
+      "say"
+    ],
+    [
+      "-ev",
+      "IMPF"
+    ],
+    [
+      "-a",
+      "3SG"
+    ]
+  ],
+  "ARGENTINO": [
+    [
+      "ARGENTIN",
+      "Argentian"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "përché": [
+    [
+      "përché",
+      "because"
+    ]
+  ],
+  "scordo": [
+    [
+      "scord",
+      "remember"
+    ],
+    [
+      "-o",
+      "1SG"
+    ]
+  ],
+  "adesso": [
+    [
+      "adesso",
+      "now"
+    ]
+  ],
+  "CONVERSACIONE": [
+    [
+      "CONVERSACIONE",
+      "conversation"
+    ]
+  ],
+  "EJEMPLO": [
+    [
+      "EJEMPL",
+      "example"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "va": [
+    [
+      "va",
+      "go:IMP.2SG"
+    ]
+  ],
+  "pijé": [
+    [
+      "pij",
+      "take"
+    ],
+    [
+      "-é",
+      "INF"
+    ]
+  ],
+  "vache": [
+    [
+      "vach",
+      "cow"
+    ],
+    [
+      "-e",
+      "F.PL"
+    ]
+  ],
+  "andé": [
+    [
+      "and",
+      "go"
+    ],
+    [
+      "-é",
+      "INF"
+    ]
+  ],
+  "monze": [
+    [
+      "monz",
+      "milk"
+    ],
+    [
+      "-e",
+      "INF"
+    ]
+  ],
+  "italia": [
+    [
+      "italia",
+      "Italy"
+    ]
+  ],
+  "mu-": [
+    [
+      "mu-",
+      "***"
+    ]
+  ],
+  "mucche": [
+    [
+      "mucch",
+      "cow"
+    ],
+    [
+      "-e",
+      "F.PL"
+    ]
+  ],
+  "DECÍAMOS": [
+    [
+      "DEC",
+      "say"
+    ],
+    [
+      "-Í",
+      "IMPF"
+    ],
+    [
+      "-AMOS",
+      "1PL"
+    ]
+  ],
+  "pjié": [
+    [
+      "pij",
+      "take"
+    ],
+    [
+      "-é",
+      "INF"
+    ]
+  ],
+  "caval": [
+    [
+      "caval",
+      "horse"
+    ]
+  ],
+  "PARENTE": [
+    [
+      "PARENTE",
+      "REL"
+    ]
+  ],
+  "cento": [
+    [
+      "cento",
+      "one_hundred"
+    ]
+  ],
+  "TENIMOS": [
+    [
+      "TEN",
+      "have"
+    ],
+    [
+      "-IMOS",
+      "1PL"
+    ]
+  ],
+  "SOMOS": [
+    [
+      "SOMOS",
+      "be:1PL"
+    ]
+  ],
+  "PERTENECÍ": [
+    [
+      "PERTENEC",
+      "belong"
+    ],
+    [
+      "-Í",
+      "PRF.3SG"
+    ]
+  ],
+  "COMISION": [
+    [
+      "COMISION",
+      "commission"
+    ]
+  ],
+  "ESAS": [
+    [
+      "ES",
+      "this"
+    ],
+    [
+      "-AS",
+      "F.PL"
+    ]
+  ],
+  "CHIQUITOS": [
+    [
+      "CHIQUIT",
+      "little"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "HEMOS": [
+    [
+      "HEMOS",
+      "AUX:1PL"
+    ]
+  ],
+  "VENIDO": [
+    [
+      "VEN",
+      "come"
+    ],
+    [
+      "-ID",
+      "PP"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "PELÍCULAS": [
+    [
+      "PELÍCUL",
+      "movie"
+    ],
+    [
+      "-AS",
+      "F.PL"
+    ]
+  ],
+  "FRECUENTAMOS": [
+    [
+      "FRECUENT",
+      "attend"
+    ],
+    [
+      "-AMOS",
+      "1PL"
+    ]
+  ],
+  "SOCIEDAD": [
+    [
+      "SOCIEDAD",
+      "society"
+    ]
+  ],
+  "ITALIANA": [
+    [
+      "ITALIAN",
+      "Italian"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "VIDA": [
+    [
+      "VID",
+      "life"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "CINE": [
+    [
+      "CINE",
+      "cinema"
+    ]
+  ],
+  "MATINERO": [
+    [
+      "?",
+      ""
+    ]
+  ],
+  "ALGO": [
+    [
+      "ALGO",
+      "something"
+    ]
+  ],
+  "CHARLAR": [
+    [
+      "CHARL",
+      "talk"
+    ],
+    [
+      "-AR",
+      "INF"
+    ]
+  ],
+  "SENTANDO": [
+    [
+      "SENT",
+      "sit"
+    ],
+    [
+      "-ANDO",
+      "GER"
+    ]
+  ],
+  "AHÍ": [
+    [
+      "AHÍ",
+      "there"
+    ]
+  ],
+  "ULTIMO": [
+    [
+      "ULTIM",
+      "last"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "BOLICHo": [
+    [
+      "BOLICH",
+      "ballroom"
+    ],
+    [
+      "-o",
+      "M.SG"
+    ]
+  ],
+  "AQUÍ": [
+    [
+      "AQUÍ",
+      "here"
+    ]
+  ],
+  "in": [
+    [
+      "in",
+      "in"
+    ]
+  ],
+  "quel": [
+    [
+      "quel",
+      "that"
+    ]
+  ],
+  "stait": [
+    [
+      "stait",
+      "be:PP"
+    ]
+  ],
+  "ultimo": [
+    [
+      "ultim",
+      "last"
+    ],
+    [
+      "-o",
+      "M.SG"
+    ]
+  ],
+  "cinquecent": [
+    [
+      "cinquecent",
+      "five_hundred"
+    ]
+  ],
+  "italiani": [
+    [
+      "italian",
+      "Italian"
+    ],
+    [
+      "-i",
+      "M.PL"
+    ]
+  ],
+  "vardavo": [
+    [
+      "vard",
+      "look"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-o",
+      "3PL"
+    ]
+  ],
+  "questo": [
+    [
+      "quest",
+      "this"
+    ],
+    [
+      "-o",
+      "M.SG"
+    ]
+  ],
+  "giorno": [
+    [
+      "giorn",
+      "day"
+    ],
+    [
+      "-o",
+      "M.SG"
+    ]
+  ],
+  "perché": [
+    [
+      "perché",
+      "because"
+    ]
+  ],
+  "lavorato": [
+    [
+      "lavor",
+      "work"
+    ],
+    [
+      "-ato",
+      "PP"
+    ]
+  ],
+  "gli": [
+    [
+      "gli",
+      "the:M.PL"
+    ]
+  ],
+  "anni": [
+    [
+      "ann",
+      "year"
+    ],
+    [
+      "-i",
+      "M.PL"
+    ]
+  ],
+  "FONDO": [
+    [
+      "FOND",
+      "reserve"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "caccia": [
+    [
+      "caccia",
+      "hunt"
+    ]
+  ],
+  "pòrtavo": [
+    [
+      "pòrt",
+      "bring"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-o",
+      "1SG"
+    ]
+  ],
+  "cacciatori": [
+    [
+      "cacciator",
+      "hunter"
+    ],
+    [
+      "-i",
+      "PL"
+    ]
+  ],
+  "d": [
+    [
+      "d",
+      ""
+    ]
+  ],
+  "all": [
+    [
+      "all",
+      "to.the:F.SG"
+    ]
+  ],
+  "bene": [
+    [
+      "bene",
+      "well"
+    ]
+  ],
+  "c": [
+    [
+      "c",
+      "CLIT"
+    ]
+  ],
+  "ho": [
+    [
+      "ho",
+      "AUX:1SG"
+    ]
+  ],
+  "parlato": [
+    [
+      "parl",
+      "talk"
+    ],
+    [
+      "-ato",
+      "PP"
+    ]
+  ],
+  "non": [
+    [
+      "non",
+      "NEG"
+    ]
+  ],
+  "nè": [
+    [
+      "nè",
+      "NEG"
+    ]
+  ],
+  "il": [
+    [
+      "il",
+      "the:M.SG"
+    ]
+  ],
+  "piemontese": [
+    [
+      "piemontese",
+      "Piedmontese"
+    ]
+  ],
+  "ah": [
+    [
+      "ah",
+      "ah"
+    ]
+  ],
+  "parsona": [
+    [
+      "parsona",
+      "person"
+    ]
+  ],
+  "PODÍA": [
+    [
+      "POD",
+      "can"
+    ],
+    [
+      "-Í",
+      "IMPF"
+    ],
+    [
+      "-A",
+      "3SG"
+    ]
+  ],
+  "LABORAR": [
+    [
+      "LABOR",
+      "work"
+    ],
+    [
+      "-AR",
+      "INF"
+    ]
+  ],
+  "COMERCIO": [
+    [
+      "COMERCI",
+      "trade"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "TIENDA": [
+    [
+      "TIEND",
+      "store"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "gent": [
+    [
+      "gent",
+      "people"
+    ]
+  ],
+  "però": [
+    [
+      "però",
+      "but"
+    ]
+  ],
+  "pòco": [
+    [
+      "pòco",
+      "little"
+    ]
+  ],
+  "vei": [
+    [
+      "vei",
+      "old"
+    ]
+  ],
+  "gnun": [
+    [
+      "gnun",
+      "no_one"
+    ]
+  ],
+  "TERCERA": [
+    [
+      "TERCER",
+      "third"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "GENERACIÓN": [
+    [
+      "GENERACIÓN",
+      "generation"
+    ]
+  ],
+  "siamo": [
+    [
+      "siamo",
+      "be:1PL"
+    ]
+  ],
+  "nijaiti": [
+    [
+      "nijaiti",
+      "1PL"
+    ]
+  ],
+  "ARGENTINOS": [
+    [
+      "ARGENTIN",
+      "Argentinian"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "GENERAL": [
+    [
+      "GENERAL",
+      "general"
+    ]
+  ],
+  "TRADICIONALISTAS": [
+    [
+      "TRADICIONALIST",
+      "traditionalist"
+    ],
+    [
+      "-AS",
+      "PL"
+    ]
+  ],
+  "TAMBIÉN": [
+    [
+      "TAMBIÉN",
+      "too"
+    ]
+  ],
+  "MUCHOS": [
+    [
+      "MUCH",
+      "many"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "ESPAÑOLES": [
+    [
+      "ESPAÑOL",
+      "Spanish"
+    ],
+    [
+      "-ES",
+      "M.PL"
+    ]
+  ],
+  "FIESTA": [
+    [
+      "FIEST",
+      "party"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "DROGUERIA": [
+    [
+      "DROGUERI",
+      "drugstore"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "FUERON": [
+    [
+      "FUERON",
+      "be:PRF.3PL"
+    ]
+  ],
+  "DESAPARECIENDO": [
+    [
+      "DE",
+      ""
+    ],
+    [
+      "SAPARECIEND",
+      ""
+    ],
+    [
+      "-O",
+      ""
+    ]
+  ],
+  "TAM": [
+    [
+      "TAM",
+      ""
+    ]
+  ],
+  "FUNDADODORES": [
+    [
+      "FUNDADOR",
+      "founder"
+    ],
+    [
+      "-ES",
+      "PL"
+    ]
+  ],
+  "ITALIANOS": [
+    [
+      "ITALIAN",
+      "Italian"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "DESAPARECIÓ": [
+    [
+      "DESPAREC",
+      "disappear"
+    ],
+    [
+      "-IÓ",
+      "PRF.3SG"
+    ]
+  ],
+  "MISMO": [
+    [
+      "MISM",
+      "same"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "ÍBAMOS": [
+    [
+      "ÍB",
+      "go:IMPF"
+    ],
+    [
+      "-AMOS",
+      "1PL"
+    ]
+  ],
+  "PASO": [
+    [
+      "PAS",
+      "step"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "ADELANTE": [
+    [
+      "ADELANTE",
+      "forward"
+    ]
+  ],
+  "TENÍAN": [
+    [
+      "TEN",
+      "have"
+    ],
+    [
+      "Í",
+      "IMPF"
+    ],
+    [
+      "-AN",
+      "3PL"
+    ]
+  ],
+  "mal": [
+    [
+      "mal",
+      "badly"
+    ]
+  ],
+  "NOSOTROS": [
+    [
+      "NOSOTROS",
+      "1PL"
+    ]
+  ],
+  "ULTIMOS": [
+    [
+      "ULTIM",
+      "last"
+    ],
+    [
+      "-OS",
+      "M.PL."
+    ]
+  ],
+  "SABEMOS": [
+    [
+      "SAB",
+      "know"
+    ],
+    [
+      "-EMOS",
+      "1PL"
+    ]
+  ],
+  "YA": [
+    [
+      "YA",
+      "already"
+    ]
+  ],
+  "HIJOS": [
+    [
+      "HIJ",
+      "child"
+    ],
+    [
+      "-OS",
+      "M.PL."
+    ]
+  ],
+  "SABEN": [
+    [
+      "SAB",
+      "know"
+    ],
+    [
+      "EN",
+      "3PL"
+    ]
+  ],
+  "TERMINEMOS": [
+    [
+      "TERMIN",
+      "finish"
+    ],
+    [
+      "-EMOS",
+      "1PL"
+    ]
+  ],
+  "NUESTRA": [
+    [
+      "NUESTR",
+      "our"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "CREO": [
+    [
+      "CRE",
+      "believe"
+    ],
+    [
+      "-O",
+      "1SG"
+    ]
+  ],
+  "PASAR": [
+    [
+      "PAS",
+      "happen"
+    ],
+    [
+      "-AR",
+      "INF"
+    ]
+  ],
+  "mh": [
+    [
+      "mh",
+      "mh"
+    ]
+  ],
+  "so": [
+    [
+      "so",
+      "know:1SG"
+    ]
+  ],
+  "credo": [
+    [
+      "cred",
+      "believe"
+    ],
+    [
+      "-o",
+      "1SG"
+    ]
+  ],
+  "mio": [
+    [
+      "mi",
+      "my"
+    ],
+    [
+      "-o",
+      "M.SG"
+    ]
+  ],
+  "chivasso": [
+    [
+      "chivasso",
+      "Chivasso"
+    ]
+  ],
+  "TRABAJABA": [
+    [
+      "TRABAJ",
+      "work"
+    ],
+    [
+      "-AB",
+      "IMPF"
+    ],
+    [
+      "-A",
+      "3SG"
+    ]
+  ],
+  "VENIAN": [
+    [
+      "VEN",
+      "come"
+    ],
+    [
+      "Í",
+      "IMPF"
+    ],
+    [
+      "-AN",
+      "3PL"
+    ]
+  ],
+  "ESPERABAN": [
+    [
+      "ESPER",
+      "hope"
+    ],
+    [
+      "-AB",
+      "IMPF"
+    ],
+    [
+      "-AN",
+      "3PL"
+    ]
+  ],
+  "AEROPUERTO": [
+    [
+      "AEROPUERT",
+      "airport"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "LLEVABAN": [
+    [
+      "LLEV",
+      "bring"
+    ],
+    [
+      "-AB",
+      "IMPF"
+    ],
+    [
+      "-AN",
+      "3PL"
+    ]
+  ],
+  "TU": [
+    [
+      "TU",
+      "2SG"
+    ]
+  ],
+  "EMPEZABAN": [
+    [
+      "EMPEZ",
+      "begin"
+    ],
+    [
+      "-AB",
+      "IMPF"
+    ],
+    [
+      "-AN",
+      "3PL"
+    ]
+  ],
+  "PIEMONTéS": [
+    [
+      "PIEMONTéS",
+      "Piedmontese"
+    ]
+  ],
+  "MEDIO": [
+    [
+      "MEDI",
+      "half"
+    ],
+    [
+      "-O",
+      "SG"
+    ]
+  ],
+  "VEINTICINCO": [
+    [
+      "VEINTICINCO",
+      "twenty-five"
+    ]
+  ],
+  "ABRIL": [
+    [
+      "ABRIL",
+      "April"
+    ]
+  ],
+  "CUARENTA": [
+    [
+      "CUARENTA",
+      "fourty"
+    ]
+  ],
+  "CIUDAD": [
+    [
+      "CIUDAD",
+      "city"
+    ]
+  ],
+  "UTILIZAR": [
+    [
+      "UTILIZ",
+      "utilize"
+    ],
+    [
+      "-AR",
+      "INF"
+    ]
+  ],
+  "ESTE": [
+    [
+      "EST",
+      "this"
+    ],
+    [
+      "-E",
+      "M.SG"
+    ]
+  ],
+  "molte": [
+    [
+      "molt",
+      "many"
+    ],
+    [
+      "-e",
+      "F.PL"
+    ]
+  ],
+  "còse": [
+    [
+      "còs",
+      "thing"
+    ],
+    [
+      "-e",
+      "PL"
+    ]
+  ],
+  "ENTENDIMOS": [
+    [
+      "ENTEND",
+      "understand"
+    ],
+    [
+      "-IMOS",
+      "1PL"
+    ]
+  ],
+  "giovo": [
+    [
+      "giov",
+      "young"
+    ],
+    [
+      "-o",
+      "M.PL"
+    ]
+  ],
+  "masnà": [
+    [
+      "masnà",
+      "child"
+    ]
+  ],
+  "più": [
+    [
+      "più",
+      "more"
+    ]
+  ],
+  "CHICA": [
+    [
+      "CHIC",
+      "young"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "piemontè": [
+    [
+      "piemontè",
+      "Piedmontese"
+    ]
+  ],
+  "COMIENZo": [
+    [
+      "COMIENZ",
+      "begin"
+    ],
+    [
+      "-o",
+      "3PL"
+    ]
+  ],
+  "lassé": [
+    [
+      "lass",
+      "leave"
+    ],
+    [
+      "é",
+      "INF"
+    ]
+  ],
+  "lasse": [
+    [
+      "lass",
+      "leave"
+    ],
+    [
+      "-e",
+      "INF"
+    ]
+  ],
+  "dre": [
+    [
+      "dre",
+      "behind"
+    ]
+  ],
+  "OBSTANTE": [
+    [
+      "OBSTANTE",
+      "withstanding"
+    ]
+  ],
+  "quand": [
+    [
+      "quand",
+      "when"
+    ]
+  ],
+  "trovoma": [
+    [
+      "trov",
+      "find"
+    ],
+    [
+      "-oma",
+      "1PL"
+    ]
+  ],
+  "noalti": [
+    [
+      "noalti",
+      "1PL"
+    ]
+  ],
+  "ricòrdavo": [
+    [
+      "ricòrd",
+      "remember"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-o",
+      "1PL"
+    ]
+  ],
+  "importanti": [
+    [
+      "important",
+      "important"
+    ],
+    [
+      "-i",
+      "M.PL"
+    ]
+  ],
+  "alora": [
+    [
+      "alora",
+      "well"
+    ]
+  ],
+  "SOCIO": [
+    [
+      "SOCI",
+      "member"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "DÍA": [
+    [
+      "DÍA",
+      "day"
+    ]
+  ],
+  "FUNDÓ": [
+    [
+      "FUND",
+      "found"
+    ],
+    [
+      "-Ó",
+      "PRF.3SG"
+    ]
+  ],
+  "RAZÓN": [
+    [
+      "RAZÓN",
+      "reason"
+    ]
+  ],
+  "molto": [
+    [
+      "molto",
+      "much"
+    ]
+  ],
+  "alla": [
+    [
+      "alla",
+      "to.the:F.SG"
+    ]
+  ],
+  "sera": [
+    [
+      "ser",
+      "evenining"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "FRECUENTÁBAMOS": [
+    [
+      "FRECUENT",
+      "frequent"
+    ],
+    [
+      "-AB",
+      "IMPF"
+    ],
+    [
+      "-AMOS",
+      "1PL"
+    ]
+  ],
+  "andasìo": [
+    [
+      "andas",
+      "go"
+    ],
+    [
+      "-ì",
+      "IMPF"
+    ],
+    [
+      "-o",
+      "1PL"
+    ]
+  ],
+  "ENTONé": [
+    [
+      "ENTON",
+      "sing"
+    ],
+    [
+      "-é",
+      "INF"
+    ]
+  ],
+  "CANCION": [
+    [
+      "CANCION",
+      "song"
+    ]
+  ],
+  "poi": [
+    [
+      "poi",
+      "then"
+    ]
+  ],
+  "j=": [
+    [
+      "j=",
+      "CLIT"
+    ]
+  ],
+  "dificil": [
+    [
+      "dificil",
+      "difficult"
+    ]
+  ],
+  "tute": [
+    [
+      "tut",
+      "all"
+    ],
+    [
+      "-e",
+      "F.PL"
+    ]
+  ],
+  "PERDIENDO": [
+    [
+      "PERD",
+      "lose"
+    ],
+    [
+      "-IENDO",
+      "GER"
+    ]
+  ],
+  "MEDIDA": [
+    [
+      "MEDID",
+      "measure"
+    ],
+    [
+      "-A",
+      "SG"
+    ]
+  ],
+  "ABUELOS": [
+    [
+      "ABUEL",
+      "grandparent"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "stavAN": [
+    [
+      "st",
+      "stay"
+    ],
+    [
+      "av",
+      "IMPF"
+    ],
+    [
+      "AN",
+      "3PL"
+    ]
+  ],
+  "mai": [
+    [
+      "mai",
+      "never"
+    ]
+  ],
+  "chicun": [
+    [
+      "chicun",
+      "someone"
+    ]
+  ],
+  "ENTENDoma": [
+    [
+      "ENTEND",
+      "understand"
+    ],
+    [
+      "-oma",
+      "1PL"
+    ]
+  ],
+  "CIERTO": [
+    [
+      "CIERTO",
+      "certainly"
+    ]
+  ],
+  "RESULTA": [
+    [
+      "RESULT",
+      "result"
+    ],
+    [
+      "-A",
+      "3SG"
+    ]
+  ],
+  "TEMA": [
+    [
+      "TEM",
+      "problem"
+    ],
+    [
+      "A",
+      "SG"
+    ]
+  ],
+  "raoc": [
+    [
+      "raoc",
+      "hoarse"
+    ]
+  ],
+  "busiardà": [
+    [
+      "busiarda",
+      "wisecrack"
+    ]
+  ],
+  "molti": [
+    [
+      "molt",
+      "many"
+    ],
+    [
+      "-i",
+      "M.PL"
+    ]
+  ],
+  "busiardate": [
+    [
+      "busiardat",
+      "wisecrack"
+    ],
+    [
+      "-e",
+      "PL"
+    ]
+  ],
+  "pias": [
+    [
+      "pias",
+      "like"
+    ]
+  ],
+  "amì": [
+    [
+      "amì",
+      "friend"
+    ]
+  ],
+  "comico": [
+    [
+      "comic",
+      "comedian"
+    ],
+    [
+      "-o",
+      "M.SG"
+    ]
+  ],
+  "veniva": [
+    [
+      "ven",
+      "come"
+    ],
+    [
+      "-iv",
+      "IMPF"
+    ],
+    [
+      "-a",
+      "3SG"
+    ]
+  ],
+  "chiamava": [
+    [
+      "chiam",
+      "call"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-a",
+      "3SG"
+    ]
+  ],
+  "l=": [
+    [
+      "l=",
+      "the:M.SG"
+    ]
+  ],
+  "fait": [
+    [
+      "fait",
+      "do:PP"
+    ]
+  ],
+  "CHARLA": [
+    [
+      "CHARL",
+      "talk"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "radio": [
+    [
+      "radio",
+      "radio"
+    ]
+  ],
+  "venìa": [
+    [
+      "ven",
+      "come"
+    ],
+    [
+      "-ì",
+      "IMPF"
+    ],
+    [
+      "-a",
+      "3SG"
+    ]
+  ],
+  "ESPECTÁCULOS": [
+    [
+      "ESPECTÁCUL",
+      "show"
+    ],
+    [
+      "-OS",
+      "M.PL"
+    ]
+  ],
+  "cantavo": [
+    [
+      "cant",
+      "song"
+    ],
+    [
+      "-av",
+      "IMPF"
+    ],
+    [
+      "-o",
+      "3PL"
+    ]
+  ],
+  "stansa": [
+    [
+      "stans",
+      "room"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "chila": [
+    [
+      "chila",
+      "3SG.F"
+    ]
+  ],
+  "prové": [
+    [
+      "prov",
+      "try"
+    ],
+    [
+      "-é",
+      "INF"
+    ]
+  ],
+  "beh": [
+    [
+      "beh",
+      "beh"
+    ]
+  ],
+  "vnoma": [
+    [
+      "vn",
+      "come"
+    ],
+    [
+      "-oma",
+      "1PL"
+    ]
+  ],
+  "cambio": [
+    [
+      "cambi",
+      "change"
+    ],
+    [
+      "-o",
+      "3PL"
+    ]
+  ],
+  "boh": [
+    [
+      "boh",
+      "boh"
+    ]
+  ],
+  "OPORTUNIDAD": [
+    [
+      "OPORTUNIDAD",
+      "opportunity"
+    ]
+  ],
+  "camin": [
+    [
+      "camin",
+      "path"
+    ]
+  ],
+  "forse": [
+    [
+      "forse",
+      "maybe"
+    ]
+  ],
+  "podoma": [
+    [
+      "pod",
+      "can"
+    ],
+    [
+      "-oma",
+      "1PL"
+    ]
+  ],
+  "viage": [
+    [
+      "viage",
+      "travel"
+    ]
+  ],
+  "visité": [
+    [
+      "visit",
+      "visit"
+    ],
+    [
+      "-é",
+      "INF"
+    ]
+  ],
+  "ier": [
+    [
+      "ier",
+      "yesterday"
+    ]
+  ],
+  "seira": [
+    [
+      "seir",
+      "evening"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "sòrela": [
+    [
+      "sòrel",
+      "sister"
+    ],
+    [
+      "-a",
+      "F.SG"
+    ]
+  ],
+  "parlà": [
+    [
+      "parl",
+      "talk"
+    ],
+    [
+      "-à",
+      "PP"
+    ]
+  ],
+  "voghì": [
+    [
+      "vogh",
+      "see"
+    ],
+    [
+      "-ì",
+      "INF"
+    ]
+  ],
+  "nassù": [
+    [
+      "nassù",
+      "be_born:PP"
+    ]
+  ],
+  "dove": [
+    [
+      "dove",
+      "where"
+    ]
+  ],
+  "nostre": [
+    [
+      "nostr",
+      "1PL"
+    ],
+    [
+      "-e",
+      "F.PL"
+    ]
+  ],
+  "DEJARLO": [
+    [
+      "DEJ",
+      "leave"
+    ],
+    [
+      "-AR",
+      "INF"
+    ],
+    [
+      "-LO",
+      "3SG.OBJ"
+    ]
+  ],
+  "duminica": [
+    [
+      "duminica",
+      "Sunday"
+    ]
+  ],
+  "MIENTRAS": [
+    [
+      "MIENTRAS",
+      "while"
+    ]
+  ],
+  "mangiavo": [
+    [
+      "mang",
+      "eat"
+    ],
+    [
+      "-iav",
+      "IMPF"
+    ],
+    [
+      "-o",
+      "3PL"
+    ]
+  ],
+  "ABUELA": [
+    [
+      "ABUEL",
+      "grandparent"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "lassa": [
+    [
+      "lass",
+      "leave"
+    ],
+    [
+      "-a",
+      "IMP.2SG"
+    ]
+  ],
+  "sté": [
+    [
+      "st",
+      "stay"
+    ],
+    [
+      "-é",
+      "INF"
+    ]
+  ],
+  "grand": [
+    [
+      "grand",
+      "big"
+    ]
+  ],
+  "HABLAR": [
+    [
+      "HABL",
+      "talk"
+    ],
+    [
+      "-AR",
+      "INF"
+    ]
+  ],
+  "PIEMONTÉ": [
+    [
+      "PIEMONTÉ",
+      "Piedmontese"
+    ]
+  ],
+  "HACES": [
+    [
+      "HAC",
+      "do"
+    ],
+    [
+      "-ES",
+      "2SG"
+    ]
+  ],
+  "PIERDE": [
+    [
+      "PIERD",
+      "lose"
+    ],
+    [
+      "-E",
+      "3SG"
+    ]
+  ],
+  "ESE": [
+    [
+      "ES",
+      "this"
+    ],
+    [
+      "-E",
+      "M.SG"
+    ]
+  ],
+  "CULTURA": [
+    [
+      "CULTUR",
+      "culture"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "REALIDAD": [
+    [
+      "REALIDAD",
+      "realiity"
+    ]
+  ],
+  "POSIBILIDAD": [
+    [
+      "POSIBILIDAD",
+      "possibility"
+    ]
+  ],
+  "ENCONTRARSE": [
+    [
+      "ENCONTR",
+      "meet"
+    ],
+    [
+      "AR",
+      "INF"
+    ],
+    [
+      "-SE",
+      "REFL"
+    ]
+  ],
+  "GRUPO": [
+    [
+      "GRUP",
+      "group"
+    ],
+    [
+      "-O",
+      "M.SG"
+    ]
+  ],
+  "GENTE": [
+    [
+      "GENTE",
+      "people"
+    ]
+  ],
+  "COMO": [
+    [
+      "COMO",
+      "how"
+    ]
+  ],
+  "SIENTE": [
+    [
+      "SIENT",
+      "feel"
+    ],
+    [
+      "-E",
+      "3SG"
+    ]
+  ],
+  "REVIVIR": [
+    [
+      "REVIV",
+      "revive"
+    ],
+    [
+      "-IR",
+      "INF"
+    ]
+  ],
+  "VEO": [
+    [
+      "VE",
+      "see"
+    ],
+    [
+      "-O",
+      "1SG"
+    ]
+  ],
+  "MIOS": [
+    [
+      "MI",
+      ""
+    ],
+    [
+      "-OS",
+      ""
+    ]
+  ],
+  "PIAMONTÉ": [
+    [
+      "PIAMONTÉ",
+      "Piedmontese"
+    ]
+  ],
+  "VOS": [
+    [
+      "VOS",
+      "2PL"
+    ]
+  ],
+  "NACISTE": [
+    [
+      "NAC",
+      "be_born"
+    ],
+    [
+      "-ISTE",
+      "PRF.2PL"
+    ]
+  ],
+  "TORINO": [
+    [
+      "TORINO",
+      "Torino"
+    ]
+  ],
+  "conosco": [
+    [
+      "conosc",
+      "know"
+    ],
+    [
+      "-o",
+      "1SG"
+    ]
+  ],
+  "HORA": [
+    [
+      "HOR",
+      "hour"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ],
+  "MEDIA": [
+    [
+      "MEDI",
+      "half"
+    ],
+    [
+      "-A",
+      "F.SG"
+    ]
+  ]
+}

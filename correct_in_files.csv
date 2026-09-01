@@ -1,0 +1,100 @@
+token,if the encountered value is,correct to,language
+ABUELOS,"[['ABUEL', 'grandparent'], ['-OS', 'M.PL.']]","[['ABUEL', 'grandparent'], ['-OS', 'M.PL']]",spa
+AL,"[['AL', 'to.the:M.SG']]","[['AL', 'to_the:M.SG']]",spa
+ancheui,"[['ancheui', 'nowadays']]","[['ancheui', 'today']]",piem
+aota,"[['aota', 'other']]","[['aot', 'other'], ['-a', 'F.SG']]",piem
+ASÍ,"[['ASÍ', 'like_this']]","[['ASÍ', 'so']]",spa
+ASOCIACIÓN,"[['ASOCIACIÓN', 'association']]","[['ASOCIACIÓN', 'association:SG']]",spa
+avìo,"[['av', 'have'], ['-ì', 'IMPF'], ['-o', '1SG']]","[['avìo', 'have:IMPF.1SG']]",piem
+avìo,"[['avìo', 'have:AUX.IMPF.1SG']]","[['avìo', 'AUX:IMPF.1SG']]",piem
+belessì,"[['belessì', 'right_here']]","[['belessì', 'here']]",piem
+BUENO,"[['BUENO', 'BUENO']]","[['BUENO', 'well']]",spa
+cacciatori,"[['cacciator', 'hunter'], ['-i', 'M.PL']]","[['cacciator', 'hunter'], ['-i', 'PL']]",piem
+CASTELLANO,"[['CASTELLAN', 'Castilian'], ['-O', 'M.SG']]","[['CASTELLAN', 'Castilian'], ['-O', 'SG']]",spa
+CASTILLA,"[['CASTILL', 'Castilian'], ['-A', 'F.SG']]","[['CASTILL', 'Castilian'], ['-A', 'SG']]",spa
+CASTILLA,"[['CASTILL', 'castle'], ['-A', 'SG']]","[['CASTILL', 'Castilian'], ['-A', 'SG']]",spa
+CONOCER,"[['CONOC', 'know'], ['ER', 'be:IMPF']]","[['CONOC', 'know'], ['-ER', 'INF']]",spa
+conossì,"[['conoss', 'know'], ['-ì', 'PP']]","[['conossì', 'know:PP']]",piem
+CORDOBA,"[['CORDOBA', 'Cordova']]","[['CORDOBA', 'Cordoba']]",spa
+còse,"[['còs', 'thing'], ['-e', 'F.PL']]","[['còs', 'thing'], ['-e', 'PL']]",piem
+DEL,"[['DE', 'of'], ['L', 'the:M.SG']]","[['DEL', 'of_the']]",spa
+DEL,"[['DEL', 'of.the:M.SG']]","[['DEL', 'of_the:M.SG']]",spa
+dël,"[['dël', 'of.the:M.SG']]","[['dël', 'of_the:M.SG']]",piem
+doi,"[['doi', 'two:M']]","[['doi', 'two']]",piem
+ëd,"[['ёd', 'of']]","[['ëd', 'of']]",piem
+EH,"[['eh', 'eh']]","[['EH', 'eh']]",spa
+EH,"[['EH', 'EH']]","[['EH', 'eh']]",spa
+EN,"[['EN', 'spa']]","[['EN', 'in']]",spa
+ENTONCES,"[['ENTONCES', 'then']]","[['ENTONCES', 'so']]",spa
+ERA,"[['ER', 'be:IMPF'], ['-A', '3SG']]","[['ERA', 'be:IMPF.3SG']]",spa
+ERA,"[['ER', 'be:IMPF.3SG'], ['-A', 'F.SG']]","[['ERA', 'be:IMPF.3SG']]",spa
+era,"[['er', 'be:IMPF'], ['-a', '3SG']]","[['era', 'be:IMPF.3SG']]",piem
+ero,"[['è', 'be:IMPF.1SG']]","[['ero', 'be:IMPF.1SG']]",piem
+ero,"[['er', 'be:IMPF'], ['-o', '1SG']]","[['ero', 'be:IMPF.1SG']]",piem
+ESO,"[['ES', 'this'], ['-O', 'M.SG']]","[['ESO', 'this:M']]",spa
+ESPAÑOLES,"[['ESPAÑOL', 'Spanish'], ['-ES', 'PL']]","[['ESPAÑOL', 'Spanish'], ['-ES', 'M.PL']]",spa
+famija,"[['famij', 'family'], ['-a', 'F.SG']]","[['famij', 'family'], ['-a', 'SG']]",piem
+fé,"[['f', 'do'], ['-é', 'INF']]","[['fé', 'do:INF']]",piem
+FREYRE,"[['FREYRE', 'FREYRE']]","[['FREYRE', 'Freyre']]",spa
+GENERACIÓN,"[['GENERACIÓN', 'generaton']]","[['GENERACIÓN', 'generation']]",spa
+HABLABAN,"[['HABL', 'speeak'], ['-AB', 'IMPF'], ['-AN', '3PL']]","[['HABL', 'speak'], ['-AB', 'IMPF'], ['-AN', '3PL']]",spa
+HISTORIA,"[['HISTORIA', 'history']]","[['HISTORIA', 'history:SG']]",spa
+HISTORIA,"[['HISTORI', 'history'], ['-A', 'SG']]","[['HISTORIA', 'history:SG']]",spa
+IDIOMA,"[['IDIOMA', 'language']]","[['IDIOMA', 'language:SG']]",spa
+ij,"[['ij', 'the:PL']]","[['ij', 'the:M.PL']]",piem
+l,"[['l=', 'the:F.SG']]","[['l=', 'CLIT']]",piem
+la,"[['la', 'the:F.PL']]","[['la', 'the:F.SG']]",piem
+LAS,"[['LAS', 'the:F:PL']]","[['LAS', 'the:F.PL']]",spa
+LE,"[['LE', '3SG:OBL']]","[['LE', '3SG.OBL']]",spa
+LE,"[['LE', '3PL:OBL']]","[['LE', '3PL.OBL']]",spa
+lolì,"[['lolì', 'that_one']]","[['lolì', 'that']]",piem
+madòna,"[['madòn', 'Madonna'], ['-a', 'F.SG']]","[['madòna', 'Madonna']]",piem
+ME,"[['ME', '1SG:OBL']]","[['ME', '1SG.OBL']]",spa
+MEDIO,"[['MEDI', 'haf'], ['-O', 'half']]","[['MEDI', 'half'], ['-O', 'SG']]",spa
+MEDIO,"[['MEDI', 'half'], ['-O', 'M.SG']]","[['MEDI', 'half'], ['-O', 'SG']]",spa
+MIS,"[['MIS', 'my:PL']]","[['MI', 'my'], ['S', 'PL']]",spa
+NECESARIO,"[['NECESARI', 'necessary'], ['-O', '1SG']]","[['NECESARI', 'necessary'], ['-O', 'M.SG']]",spa
+NO,"[['NO', 'NO']]","[['NO', 'no']]",spa
+non,"[['non', 'NOT']]","[['non', 'NEG']]",piem
+NOSOTROS,"[['NOSOTROS', '1PL:M']]","[['NOSOTROS', '1PL']]",spa
+NUESTROS,"[['NUESTR', 'our'], ['-OS', 'M.PL.']]","[['NUESTR', 'our'], ['-OS', 'M.PL']]",spa
+parlava,"[['parl', 'talk'], ['-av', 'IMPF'], ['-a', '3SG']]","[['parl', 'speak'], ['-av', 'IMPF'], ['-a', '3SG']]",piem
+parlé,"[['parl', 'talk'], ['-é', 'INF']]","[['parl', 'speak'], ['-é', 'INF']]",piem
+parloma,"[['parl', 'talk'], ['-oma', '1PL']]","[['parl', 'speak'], ['-oma', '1PL']]",piem
+PERDIÓ,"[['PERD', 'lose'], ['-IÓ', '3SG']]","[['PERD', 'lose'], ['-IÓ', 'PRF.3SG']]",spa
+però,"[['però', 'però']]","[['però', 'but']]",piem
+pi,"[['pi', '(any)more']]","[['pi', 'anymore']]",piem
+PIEMONTéS,"[['PIEMONTéS', 'Piedmontese']]","[['PIEMONTéS', 'Piedmontese']]",spa
+qui,"[['qui', 'qui']]","[['qui', 'here']]",piem
+rotonda,"[['rotond', 'round'], ['-a', 'SG']]","[['rotond', 'round'], ['-a', 'F.SG']]",piem
+SE,"[['SE', 'IMP']]","[['SE', 'IMPERS']]",spa
+SEA,"[['SEA', 'be:SUBJ.3SG']]","[['SEA', 'be:SBJ.3SG']]",spa
+si,"[['si', 'IMP']]","[['si', 'IMPERS']]",piem
+sì,"[['sì', 'sì']]","[['sì', 'yes']]",piem
+SON,"[['SON', '']]","[['SON', 'be:3PL']]",spa
+TODO,"[['TODO', 'all']]","[['TOD', 'all'], ['-O', 'M.SG']]",spa
+TORINO,"[['Torino', 'Torino']]","[['TORINO', 'Torino']]",piem-spa
+tramolé,"[['tramol', 'tremble'], ['-é', 'INF']]","[['tramol', 'shiver'], ['-é', 'INF']]",piem
+tuti,"[['tut', 'all'], ['-i', 'PL']]","[['tut', 'all'], ['-i', 'M.PL']]",piem
+tutti,"[['tutti', 'all']]","[['tutt', 'all'], ['-i', 'M.PL']]",piem
+UN,"[['UN', 'the:M.SG']]","[['UN', 'one:M']]",spa
+UNA,"[['UN', ''], ['-A', '']]","[['UNA', 'one:F']]",spa
+UNO,"[['UN', 'one:M'], ['-O', 'M.SG']]","[['UNO', 'one']]",spa
+UNO,"[['UNO', 'one:M']]","[['UNO', 'one']]",spa
+VIDEO,"[['VIDE', 'video'], ['-O', 'SG']]","[['VIDEO', 'video:SG']]",spa
+VIDEO,"[['VIDEO', 'video']]","[['VIDEO', 'video:SG']]",spa
+VINIERON,"[['VIN', 'come'], ['-IERON', 'PRF:3PL']]","[['VIN', 'come'], ['-IERON', 'PRF.3PL']]",spa
+vòta,"[['vòt', 'time'], ['-a', 'SG']]","[['vòta', 'time']]",piem
+vòta,"[['vòt', 'time'], ['-a', 'F.SG']]","[['vòta', 'time']]",piem
+xxx,"[['***', '']]","[['xxx', '']]",
+xxx,"[['xxx', '***']]","[['xxx', '']]",
+xxx,"[['', '']]","[['xxx', '']]",
+YO,"[['YO', '1SG:NOM']]","[['YO', '1SG']]",spa
+YO,"[['YO', '1SG.NOM']]","[['YO', '1SG']]",spa
+al,"[['al', 'at.the:M.SG']]","[['al', 'at_the:M.SG']]",piem
+al,"[['al', 'to.the:M.SG']]","[['al', 'to_the:M.SG']]",piem
+sa,"[['sa', 'IMP']]","[['sa', 'IMPERS']]",piem
+parlavo,"[['parl', 'talk'], ['-av', 'IMPF'], ['-o', '1PL']]","[['parl', 'speak'], ['-av', 'IMPF'], ['-o', '1PL']]",piem
+parlavo,"[['parl', 'talk'], ['-av', 'IMPF'], ['-o', '1SG']]","[['parl', 'speak'], ['-av', 'IMPF'], ['-o', '1SG']]",piem
+parlavo,"[['parl', 'talk'], ['-av', 'IMPF'], ['-o', '3PL']]","[['parl', 'speak'], ['-av', 'IMPF'], ['-o', '3PL']]",piem
+parlo,"[['parl', 'talk'], ['-o', '1SG']]","[['parl', 'speak'], ['-o', '1SG']]",piem
