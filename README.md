@@ -157,9 +157,6 @@ explicitly as a `config` dict.
   corrected output to `word_morph_gloss_dict_upd.json`, but notebook 2 loads
   `word_morph_gloss_dict.json`; point it at the corrected file to gloss with
   the reviewed dictionary.
-- Written as notebooks under time pressure during an internship. The natural
-  next step is extracting the shared helpers into a module, since the two
-  notebooks duplicate the tier-lookup and annotation-ID logic.
 
 ## License
 
